@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Yuliafire
-- 👀 I’m interested in frontend development, AI, machine learning 
+- I'm RS School Stage 1 Frontend Development Student!
+- 👀 I’m interested in frontend development, AI, machine learning
+- I teach English and Chinese!
 - 🌱 I’m currently learning Js and React Js.
-- 💞️ I’m looking to collaborate on React Js projects.
 - 📫 How to reach me ...email: linguavoice1@yahoo.com
 
 <!---
