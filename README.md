@@ -1,4 +1,4 @@
-👋 Hi, I’m Yulia. I work as a Certified English teacher and study Frontend Development. I'm fluent in English (C2 level) and I can also speak some Chinese Mandarin (HSK3). 
+👋 Hi, I’m Yulia. I work as a Certified English teacher and study Frontend Development. I'm fluent in English (C2 level) and can also speak some Chinese Mandarin (HSK3). 
 I'm a polymath with multiple skills in areas such as linguistics, music, finance, sport and tech. I believe in Education and self-development.
 - I'm RS School Stage 1 Frontend Development Student!
 - Learn more about me https://english-speaker.netlify.app/
