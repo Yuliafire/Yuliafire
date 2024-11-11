@@ -1,8 +1,8 @@
-👋 Hi, I’m @Yuliafire
+👋 Hi, I’m Yulia. I work as a Certified English teacher and study Frontend Development. I'm fluent in English (C2 level) and I can also speak some Chinese Mandarin (HSK3). 
+I'm a polymath with multiple skills in areas like linguastics, music, sport and tech. I believe in Education and self-development.
 - I'm RS School Stage 1 Frontend Development Student!
-- I teach English and Chinese! Learn more about me https://english-speaker.netlify.app/
-- 👀 I’m interested in frontend development, AI, machine learning
-- 🌱 I’m currently learning Js and React Js.
+- Learn more about me https://english-speaker.netlify.app/
+- 👀 I’m interested in frontend development, all sorts of AI and technology. 
 - 📫 How to reach me ...email: linguavoice1@yahoo.com
 
 <!---
