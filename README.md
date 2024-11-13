@@ -3,7 +3,6 @@ I'm a polymath with multiple skills as well as educational background in areas s
 - I'm RS School Stage 1 Frontend Development Student!
 - Learn more about me https://english-speaker.netlify.app/
 - 👀 I’m interested in frontend development, all sorts of AI and technology. 
-- 📫 How to reach me ...email: linguavoice1@yahoo.com
 
 <!---
 Yuliafire/Yuliafire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
