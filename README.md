@@ -5,7 +5,7 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
 - 🌱 I'm RS School Stage 1 Frontend Development Student!
 - 👀 I’m interested in frontend development, all sorts of AI and technology.
 - 🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/)
-- 🏷️ My logo: 不怕慢， 就怕听.
+- 🏷 My logo: 不怕慢， 就怕听.
 
 
 ## Skills
