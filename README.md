@@ -9,13 +9,14 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
 
 - ## Certifications
 
-- **Certified English Teacher**
-- **HSK3 Chinese Mandarin**
+- **Certified English Teacher (TEFL)**
+
 
 - ## Languages
 
 - **English**: C2 Level
 - **Chinese Mandarin**: HSK3 Level
+- **Russian**
 
 
 ## Skills
