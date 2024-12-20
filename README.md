@@ -7,6 +7,16 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
 - 🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/)
 - 🏷 My logo: 不怕慢， 就怕听.
 
+- ## Certifications
+
+- **Certified English Teacher**
+- **HSK3 Chinese Mandarin**
+
+- ## Languages
+
+- **English**: C2 Level
+- **Chinese Mandarin**: HSK3 Level
+
 
 ## Skills
 
