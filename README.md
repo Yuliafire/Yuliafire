@@ -10,6 +10,7 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
  ## Certifications
 
 - **Certified English Teacher (TEFL)**
+- **UDEMY course WEB DEVELOPER**
 
 
  ## Languages
