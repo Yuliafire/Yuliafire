@@ -7,11 +7,11 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
 - 🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/)
 - 🏷 My logo: 不怕慢， 就怕听.
 
- ## Certifications
-
-- **Certified English Teacher (TEFL)**
+ ## Certifications | Courses
+ 
+- **RS School Stage1 Frontend, JS**
 - **UDEMY course WEB DEVELOPER**
-
+- **Certified English Teacher (TEFL)**
 
  ## Languages
 
