@@ -9,7 +9,7 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
 
  ## Certifications | Courses
  
-- **RS School Stage 1 Frontend, JS**
+- **RS School Stage 1 FRONTEND, JS**
 - **UDEMY course WEB DEVELOPER**
 - **Certified English Teacher (TEFL)**
 
