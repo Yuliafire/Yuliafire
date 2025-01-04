@@ -20,7 +20,7 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
 - **Russian**
 
 
-## Tech Stack
+## Tech Stack (I'm currently learning)
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
