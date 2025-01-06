@@ -33,6 +33,7 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-Expert-blue?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
+![React Badge](https://img.shields.io/badge/React-Skill-blue)
 
 ## GitHub Stats
 
