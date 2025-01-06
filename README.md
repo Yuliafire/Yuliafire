@@ -40,7 +40,7 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
 
 ## Activity Overview
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph username=Yuliafire&theme=react-dark)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yuliafire&theme=react-dark)
 
 
 
