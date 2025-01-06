@@ -40,7 +40,7 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
 
 ## Activity Overview
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yuliafire&theme=react-dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuliafire&bg_color=181617&color=9e4c98&line=f104e1&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
