@@ -40,7 +40,7 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
 
 ## Activity Overview
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yuliafiire)
+
 <!---
 Yuliafire/Yuliafire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
