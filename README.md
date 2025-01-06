@@ -40,6 +40,9 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
 
 ## Activity Overview
 
+![Activity Graph](https://activity-graph.herokuapp.com/graph username=Yuliafire&theme=react-dark)
+
+
 
 <!---
 Yuliafire/Yuliafire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
