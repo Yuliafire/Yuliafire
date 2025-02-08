@@ -7,23 +7,7 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
 - 🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/)
 - 🏷 My logo: 不怕慢， 就怕听.
 
- ## Certifications | Courses
- 
-- **RS School FRONTEND, JS (Stage 1)**
-- **UDEMY course WEB DEVELOPER**
-![udemy cert web](https://github.com/user-attachments/assets/7c83b6d6-b4ed-4dab-b722-7b0687af95ac)
-
-
-![Certificate] 
-- **Certified English Teacher (TEFL)**
-
- ## Languages
-
-- **English**: C2 Level
-- **Chinese Mandarin**: HSK3 Level
-- **Russian**
-
-
+  
 ## Tech Stack (I'm currently learning)
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,6 +22,25 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-Expert-blue?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+ ## Certifications | Courses
+ 
+- **RS School FRONTEND, JS (Stage 1)**
+- **UDEMY course WEB DEVELOPER**
+![udemy cert web](https://github.com/user-attachments/assets/7c83b6d6-b4ed-4dab-b722-7b0687af95ac)
+<img src="https://github.com/user-attachments/assets/7c83b6d6-b4ed-4dab-b722-7b0687af95ac" alt="udemy cert web" width="300"/>
+
+
+
+- **Certified English Teacher (TEFL)**
+
+ ## Languages
+
+- **English**: C2 Level
+- **Chinese Mandarin**: HSK3 Level
+- **Russian**
+
+
 
 ## GitHub Stats
 
