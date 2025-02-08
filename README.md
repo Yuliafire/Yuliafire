@@ -27,7 +27,7 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
  
 - **RS School FRONTEND, JS (Stage 1)**
 - **UDEMY course WEB DEVELOPER**
-![udemy cert web](https://github.com/user-attachments/assets/7c83b6d6-b4ed-4dab-b722-7b0687af95ac)
+![udemy cert web]
 <img src="https://github.com/user-attachments/assets/7c83b6d6-b4ed-4dab-b722-7b0687af95ac" alt="udemy cert web" width="300"/>
 
 
