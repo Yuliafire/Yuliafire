@@ -41,9 +41,7 @@ The task involves implementing various interactive functionalities, including a 
 - **Slider on Home Page:** 
 - **Modal for Selected Product:** 
 
-
-### Video Demo
-- [Video Demo Link](#)
+<img width="1307" alt="Снимок экрана 2025-02-09 в 9 27 21 PM" src="https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0" />
 
 ### Deployment Link
 - [Link](https://yuliafire.github.io/christmas-shop-public/christmas-folder/)
