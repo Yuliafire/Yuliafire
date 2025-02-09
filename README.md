@@ -2,10 +2,11 @@
 
 I work as a Certified English teacher and study Frontend Development. I'm fluent in English (C2 level) and can also speak some Chinese Mandarin (HSK3). I believe in Education and self-development.
 
-- 🌱 I'm RS School Stage 1 Frontend Development Student!
-- 👀 I’m interested in frontend development, all sorts of AI and technology.
-- 🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/), https://youtu.be/-CADlPmv0Dw?si=Uxah5xuFZs44JqPd
-- 🏷 My logo: 不怕慢， 就怕听.
+![IMAGE 2025-02-09 9:49:08 PM](https://github.com/user-attachments/assets/d8acf6a5-6bc5-41a4-944d-02ad34fcc645)
+https://youtu.be/-CADlPmv0Dw?si=Uxah5xuFZs44JqPd
+
+🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/)
+🏷 My logo: 不怕慢， 就怕听.
 
   
 ## Tech Stack (I'm currently learning)
