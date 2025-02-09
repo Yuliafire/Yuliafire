@@ -43,7 +43,7 @@ The task involves implementing various interactive functionalities, including a 
 
 
 ### Video Demo
-- [Video Demo Link](#) (Add a link to your video demo here)
+- [Video Demo Link](#)
 
 ### Deployment Link
 - [Link](https://yuliafire.github.io/christmas-shop-public/christmas-folder/)
