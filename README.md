@@ -51,7 +51,7 @@ The task involves implementing various interactive functionalities, including a 
  ## Certifications | Courses
  
 - **RS School FRONTEND, JS (Stage 1)**
-- **UDEMY course WEB DEVELOPER**![IMAGE 2025-02-09 10:01:27 PM](https://github.com/user-attachments/assets/b680cdbd-2dd8-4ece-953b-a0fd689bd5db)
+- **UDEMY course WEB DEVELOPER**
 
 <img src="https://github.com/user-attachments/assets/7c83b6d6-b4ed-4dab-b722-7b0687af95ac" alt="udemy cert web" width="300"/>
 
