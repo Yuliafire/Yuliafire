@@ -23,6 +23,32 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-Expert-blue?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+# Projects
+
+## 1. [Task: Christmas Shop Part 3](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/christmas-shop/christmas-shop-part3.md)
+
+### Description
+This project involves building a Christmas-themed shop website, where users can interact with a variety of gift-related features.
+The task involves implementing various interactive functionalities, including a burger menu, timer, random gift suggestions, and category switching for gifts. 
+
+### Features Implemented:
+- **Opening and Closing Burger Menu:** The menu is activated when the screen width is 768px or less.
+- **Slider on Home Page:** A slider is to be implemented but is not yet functional.
+- **Timer on Home Page:** A countdown timer that counts down to a specific event (e.g., Christmas).
+- **Random Gifts on Home Page:** Displays a set of random gift items.
+- **Category Switching on Gifts Page:** Switch between different categories of gifts.
+- **Button UP on Gifts Page:** A button that takes users back to the top of the page.
+- **Slider on Home Page:** 
+- **Modal for Selected Product:** 
+
+
+### Video Demo
+- [Video Demo Link](#) (Add a link to your video demo here)
+
+### Deployment Link
+- [Live Demo Link](https://yuliafire.github.io/christmas-shop-public/christmas-folder/)
+
+
  ## Certifications | Courses
  
 - **RS School FRONTEND, JS (Stage 1)**
