@@ -1,6 +1,6 @@
 # Hi, I’m Yulia - Currently looking for a Junior Frontend Developer job!
 
-I work as a Certified English teacher and study Frontend Development. I'm fluent in English (C2 level) and can also speak some Chinese Mandarin (HSK3). I believe in Education and self-development. Watch my self-introduction on YouTube https://youtu.be/-CADlPmv0Dw?si=Uxah5xuFZs44JqPd
+I work as a Certified English teacher and study Frontend Development. I'm fluent in English (C2 level) and can also speak some Chinese Mandarin (HSK3). I believe in Education and self-development. Watch my story on YouTube https://youtu.be/-CADlPmv0Dw?si=Uxah5xuFZs44JqPd
 
 ![IMAGE 2025-02-09 9:49:08 PM](https://github.com/user-attachments/assets/d8acf6a5-6bc5-41a4-944d-02ad34fcc645)
 
