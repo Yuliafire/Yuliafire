@@ -32,8 +32,9 @@ This project involves building a Christmas-themed shop website, where users can 
 The task involves implementing various interactive functionalities, including a burger menu, timer, random gift suggestions, and category switching for gifts. 
 
 <img width="1307" alt="Снимок экрана 2025-02-09 в 9 27 21 PM" src="https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0" />
+
 ### Deployment 
-- [Link](https://yuliafire.github.io/christmas-shop-public/christmas-folder/)
+[Link](https://yuliafire.github.io/christmas-shop-public/christmas-folder/)
 
 ### Features Implemented:
 - **Opening and Closing Burger Menu:** The menu is activated when the screen width is 768px or less.
