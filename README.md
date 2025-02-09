@@ -33,8 +33,8 @@ The task involves implementing various interactive functionalities, including a 
 
 ### Features Implemented:
 - **Opening and Closing Burger Menu:** The menu is activated when the screen width is 768px or less.
-- **Slider on Home Page:** A slider is to be implemented but is not yet functional.
-- **Timer on Home Page:** A countdown timer that counts down to a specific event (e.g., Christmas).
+- **Slider on Home Page:** 
+- **Timer on Home Page:** A countdown timer that counts down to a specific event.
 - **Random Gifts on Home Page:** Displays a set of random gift items.
 - **Category Switching on Gifts Page:** Switch between different categories of gifts.
 - **Button UP on Gifts Page:** A button that takes users back to the top of the page.
