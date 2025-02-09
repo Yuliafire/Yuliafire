@@ -31,6 +31,10 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
 This project involves building a Christmas-themed shop website, where users can interact with a variety of gift-related features.
 The task involves implementing various interactive functionalities, including a burger menu, timer, random gift suggestions, and category switching for gifts. 
 
+<img width="1307" alt="Снимок экрана 2025-02-09 в 9 27 21 PM" src="https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0" />
+### Deployment 
+- [Link](https://yuliafire.github.io/christmas-shop-public/christmas-folder/)
+
 ### Features Implemented:
 - **Opening and Closing Burger Menu:** The menu is activated when the screen width is 768px or less.
 - **Slider on Home Page:** 
@@ -38,13 +42,8 @@ The task involves implementing various interactive functionalities, including a 
 - **Random Gifts on Home Page:** Displays a set of random gift items.
 - **Category Switching on Gifts Page:** Switch between different categories of gifts.
 - **Button UP on Gifts Page:** A button that takes users back to the top of the page.
-- **Slider on Home Page:** 
-- **Modal for Selected Product:** 
-
-<img width="1307" alt="Снимок экрана 2025-02-09 в 9 27 21 PM" src="https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0" />
-
-### Deployment Link
-- [Link](https://yuliafire.github.io/christmas-shop-public/christmas-folder/)
+- **Slider on Home Page** 
+- **Modal for Selected Product** 
 
 
  ## Certifications | Courses
