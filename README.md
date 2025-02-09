@@ -1,8 +1,9 @@
 # Hi, I’m Yulia - Currently looking for a Junior Frontend Developer job!
 
-I work as a Certified English teacher and study Frontend Development. I'm fluent in English (C2 level) and can also speak some Chinese Mandarin (HSK3). I believe in Education and self-development. [Watch the video on YouTube](https://youtu.be/-CADlPmv0Dw)
+I work as a Certified English teacher and study Frontend Development. I'm fluent in English (C2 level) 
+and can also speak some Chinese Mandarin (HSK3). I believe in Education and self-development. [Watch the video on YouTube](https://youtu.be/-CADlPmv0Dw)
+![IMAGE 2025-02-09 10:01:27 PM](https://github.com/user-attachments/assets/7c0e74f5-db11-42f7-ae1a-323cf000e934)
 
-![IMAGE 2025-02-09 9:49:08 PM](https://github.com/user-attachments/assets/d8acf6a5-6bc5-41a4-944d-02ad34fcc645)
 
 - 🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/)
 - 🏷 My logo: 不怕慢， 就怕听.
@@ -50,7 +51,8 @@ The task involves implementing various interactive functionalities, including a 
  ## Certifications | Courses
  
 - **RS School FRONTEND, JS (Stage 1)**
-- **UDEMY course WEB DEVELOPER**
+- **UDEMY course WEB DEVELOPER**![IMAGE 2025-02-09 10:01:27 PM](https://github.com/user-attachments/assets/b680cdbd-2dd8-4ece-953b-a0fd689bd5db)
+
 <img src="https://github.com/user-attachments/assets/7c83b6d6-b4ed-4dab-b722-7b0687af95ac" alt="udemy cert web" width="300"/>
 
 
