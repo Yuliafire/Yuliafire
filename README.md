@@ -4,8 +4,8 @@ I work as a Certified English teacher and study Frontend Development. I'm fluent
 
 ![IMAGE 2025-02-09 9:49:08 PM](https://github.com/user-attachments/assets/d8acf6a5-6bc5-41a4-944d-02ad34fcc645)
 
-🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/)
-🏷 My logo: 不怕慢， 就怕听.
+- 🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/)
+- 🏷 My logo: 不怕慢， 就怕听.
 
   
 ## Tech Stack (I'm currently learning)
