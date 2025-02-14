@@ -23,6 +23,7 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-Expert-blue?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 # Projects
 
