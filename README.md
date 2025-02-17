@@ -82,10 +82,6 @@ This project involves building a **Nonogram Game**, a logic puzzle where players
 - **CSS:** For styling the grid, buttons, and overall layout.
 - **HTML:** For structuring the game interface.
 
-### Screenshots
-![Nonogram Game Screenshot 1](https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0)
-![Non0gram Game Screenshot 2](https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0)
-
 ### Future Improvements
 - Add more puzzle packs with different themes.
 - Implement a save/load feature to resume puzzles later.
