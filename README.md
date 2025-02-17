@@ -54,7 +54,7 @@ The task involves implementing various interactive functionalities, including a 
 ### Description
 This project involves building a **Nonogram Game**, a logic puzzle where players solve nonogram puzzles by filling cells in a grid based on numerical clues. The game is built using JavaScript and CSS, providing an interactive and engaging experience for users. The task includes implementing puzzle generation, user interaction, and validation of the solved puzzles.
 
-![Nonogram Game Screenshot](https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0)
+<img width="500" height="300" alt="Снимок экрана 2025-02-17 в 4 21 52 PM" src="https://github.com/user-attachments/assets/b9434587-972e-40ab-912d-647834cea2c8" />
 
 ### Deployment 
 [Link](https://yuliafire.github.io/nonograms/nonograms/nonograms/)
