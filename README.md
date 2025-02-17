@@ -46,7 +46,54 @@ The task involves implementing various interactive functionalities, including a 
 - **Category Switching on Gifts Page:** Switch between different categories of gifts.
 - **Button UP on Gifts Page:** A button that takes users back to the top of the page.
 - **Slider on Home Page** 
-- **Modal for Selected Product** 
+- **Modal for Selected Product**
+
+
+## 2. [Task: Nongram Game](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/nongram-game/nongram-game.md)
+
+### Description
+This project involves building a **Nongram Game**, a logic puzzle where players solve nonogram puzzles by filling cells in a grid based on numerical clues. The game is built using JavaScript and CSS, providing an interactive and engaging experience for users. The task includes implementing puzzle generation, user interaction, and validation of the solved puzzles.
+
+![Nongram Game Screenshot](https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0)
+
+### Deployment 
+[Link](https://yuliafire.github.io/nongram-game-public/)
+
+### Features Implemented:
+- **Puzzle Generation:** Dynamically generates nonogram puzzles of varying difficulty levels.
+- **Interactive Grid:** Allows users to click or drag to fill or mark cells in the grid.
+- **Clue Validation:** Validates the user's solution against the correct puzzle solution.
+- **Timer:** Tracks the time taken to solve the puzzle.
+- **Reset Button:** Resets the grid to its initial state.
+- **Hint System:** Provides hints to help users solve the puzzle.
+- **Responsive Design:** Ensures the game is playable on both desktop and mobile devices.
+- **Win/Lose Feedback:** Displays a message when the puzzle is solved correctly or incorrectly.
+
+### How to Use
+1. Open the deployed link in your browser.
+2. Select a puzzle difficulty level (Easy, Medium, Hard).
+3. Use the grid to fill or mark cells based on the numerical clues provided.
+4. Click the "Check" button to validate your solution.
+5. Use the "Hint" button if you need assistance.
+6. Reset the puzzle at any time using the "Reset" button.
+
+### Technologies Used
+- **JavaScript:** For game logic, puzzle generation, and user interaction.
+- **CSS:** For styling the grid, buttons, and overall layout.
+- **HTML:** For structuring the game interface.
+
+### Screenshots
+![Nongram Game Screenshot 1](https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0)
+![Nongram Game Screenshot 2](https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0)
+
+### Future Improvements
+- Add more puzzle packs with different themes.
+- Implement a save/load feature to resume puzzles later.
+- Add a leaderboard to track the fastest puzzle solvers.
+- Introduce animations and sound effects for a more immersive experience.
+
+### Author
+[Yulia Podgurskaia](https://github.com/Yuliafire)
 
 
  ## Certifications | Courses
