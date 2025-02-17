@@ -68,14 +68,14 @@ This project involves building a **Nonogram Game**, a logic puzzle where players
 - **Hint System:** Provides hints to help users solve the puzzle.
 - **Responsive Design:** Ensures the game is playable on both desktop and mobile devices.
 - **Win/Lose Feedback:** Displays a message when the puzzle is solved correctly or incorrectly.
+- Introduce animations and sound effects for a more immersive experience.
 
 ### How to Use
 1. Open the deployed link in your browser.
-2. Select a puzzle difficulty level (Easy, Medium, Hard).
+2. Select a puzzle template.
 3. Use the grid to fill or mark cells based on the numerical clues provided.
-4. Click the "Check" button to validate your solution.
-5. Use the "Hint" button if you need assistance.
-6. Reset the puzzle at any time using the "Reset" button.
+4. Click the "Solution" button to validate your solution.
+5. Reset the puzzle at any time using the "Reset" button.
 
 ### Technologies Used
 - **JavaScript:** For game logic, puzzle generation, and user interaction.
@@ -83,11 +83,9 @@ This project involves building a **Nonogram Game**, a logic puzzle where players
 - **HTML:** For structuring the game interface.
 
 ### Future Improvements
-- Add more puzzle packs with different themes.
+- Add more puzzle packs with different themes, and different difficulty levels.
 - Implement a save/load feature to resume puzzles later.
 - Add a leaderboard to track the fastest puzzle solvers.
-- Introduce animations and sound effects for a more immersive experience.
-
 
  ## Certifications | Courses
  
