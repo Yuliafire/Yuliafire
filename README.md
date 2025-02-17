@@ -49,7 +49,7 @@ The task involves implementing various interactive functionalities, including a 
 - **Modal for Selected Product**
 
 
-## 2. [Task: Nonogram Game](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/nongram-game/nongram-game.md)
+## 2. [Task: Nonogram Game](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/nonograms)
 
 ### Description
 This project involves building a **Nonogram Game**, a logic puzzle where players solve nonogram puzzles by filling cells in a grid based on numerical clues. The game is built using JavaScript and CSS, providing an interactive and engaging experience for users. The task includes implementing puzzle generation, user interaction, and validation of the solved puzzles.
