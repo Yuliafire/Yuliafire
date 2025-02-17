@@ -34,6 +34,7 @@ This project involves building a Christmas-themed shop website, where users can 
 The task involves implementing various interactive functionalities, including a burger menu, timer, random gift suggestions, and category switching for gifts. 
 
 <img width="500" height="300" alt="Снимок экрана 2025-02-09 в 9 27 21 PM" src="https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0" />
+
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -58,6 +59,7 @@ The task involves implementing various interactive functionalities, including a 
 This project involves building a **Nonogram Game**, a logic puzzle where players solve nonogram puzzles by filling cells in a grid based on numerical clues. The game is built using JavaScript and CSS, providing an interactive and engaging experience for users. The task includes implementing puzzle generation, user interaction, and validation of the solved puzzles.
 
 <img width="500" height="300" alt="Снимок экрана 2025-02-17 в 4 21 52 PM" src="https://github.com/user-attachments/assets/b9434587-972e-40ab-912d-647834cea2c8" />
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
