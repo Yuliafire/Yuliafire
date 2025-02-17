@@ -49,15 +49,15 @@ The task involves implementing various interactive functionalities, including a 
 - **Modal for Selected Product**
 
 
-## 2. [Task: Nongram Game](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/nongram-game/nongram-game.md)
+## 2. [Task: Nonogram Game](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/nongram-game/nongram-game.md)
 
 ### Description
-This project involves building a **Nongram Game**, a logic puzzle where players solve nonogram puzzles by filling cells in a grid based on numerical clues. The game is built using JavaScript and CSS, providing an interactive and engaging experience for users. The task includes implementing puzzle generation, user interaction, and validation of the solved puzzles.
+This project involves building a **Nonogram Game**, a logic puzzle where players solve nonogram puzzles by filling cells in a grid based on numerical clues. The game is built using JavaScript and CSS, providing an interactive and engaging experience for users. The task includes implementing puzzle generation, user interaction, and validation of the solved puzzles.
 
-![Nongram Game Screenshot](https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0)
+![Nonogram Game Screenshot](https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0)
 
 ### Deployment 
-[Link](https://yuliafire.github.io/nongram-game-public/)
+[Link](https://yuliafire.github.io/nonograms/nonograms/nonograms/)
 
 ### Features Implemented:
 - **Puzzle Generation:** Dynamically generates nonogram puzzles of varying difficulty levels.
@@ -83,17 +83,14 @@ This project involves building a **Nongram Game**, a logic puzzle where players 
 - **HTML:** For structuring the game interface.
 
 ### Screenshots
-![Nongram Game Screenshot 1](https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0)
-![Nongram Game Screenshot 2](https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0)
+![Nonogram Game Screenshot 1](https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0)
+![Non0gram Game Screenshot 2](https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0)
 
 ### Future Improvements
 - Add more puzzle packs with different themes.
 - Implement a save/load feature to resume puzzles later.
 - Add a leaderboard to track the fastest puzzle solvers.
 - Introduce animations and sound effects for a more immersive experience.
-
-### Author
-[Yulia Podgurskaia](https://github.com/Yuliafire)
 
 
  ## Certifications | Courses
