@@ -1,14 +1,5 @@
 # Hi, I’m Yulia - Currently looking for a Junior Frontend Developer job!
 
-I work as a Certified English teacher and study Frontend Development. I'm fluent in English (C2 level) 
-and can also speak some Chinese Mandarin (HSK3). I believe in Education and self-development. [Watch the video on YouTube](https://youtu.be/-CADlPmv0Dw)
-![IMAGE 2025-02-09 10:01:27 PM](https://github.com/user-attachments/assets/7c0e74f5-db11-42f7-ae1a-323cf000e934)
-
-
-- 🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/)
-- 🏷 My logo: 不怕慢， 就怕听.
-
-  
 ## Tech Stack (I'm currently learning)
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,6 +15,14 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-Expert-blue?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+I work as a Certified English teacher and study Frontend Development. I'm fluent in English (C2 level) 
+and can also speak some Chinese Mandarin (HSK3). I believe in Education and self-development. [Watch the video on YouTube](https://youtu.be/-CADlPmv0Dw)
+![IMAGE 2025-02-09 10:01:27 PM](https://github.com/user-attachments/assets/7c0e74f5-db11-42f7-ae1a-323cf000e934)
+
+
+- 🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/)
+- 🏷 My logo: 不怕慢， 就怕听.
 
 # Projects
 
