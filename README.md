@@ -57,7 +57,7 @@ The task involves implementing various interactive functionalities, including a 
 ### Description
 This project involves building a **Nonogram Game**, a logic puzzle where players solve nonogram puzzles by filling cells in a grid based on numerical clues. The game is built using JavaScript and CSS, providing an interactive and engaging experience for users. The task includes implementing puzzle generation, user interaction, and validation of the solved puzzles.
 
-<img width="500" height="300" alt="Снимок экрана 2025-02-17 в 4 21 52 PM" src="https://github.com/user-attachments/assets/b9434587-972e-40ab-912d-647834cea2c8" />
+<img width="500" height="300" alt="Снимок экрана 2025-02-18 в 4 35 38 PM" src="https://github.com/user-attachments/assets/a6fdd1a7-81a1-4a05-84ed-47725ca2dfa0" />
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
