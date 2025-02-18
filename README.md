@@ -63,7 +63,7 @@ This project involves building a **Nonogram Game**, a logic puzzle where players
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Deployment 
-[Link](https://yuliafire.github.io/nonograms/nonograms/nonograms/)
+[Link](https://rolling-scopes-school.github.io/yuliafire-JSFE2024Q4/nonograms/)
 
 ### Features Implemented:
 - **Puzzle Generation:** Dynamically generates nonogram puzzles of varying difficulty levels.
