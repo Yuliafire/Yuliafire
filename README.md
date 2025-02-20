@@ -15,6 +15,7 @@
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-Expert-blue?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+[![Webpack](https://img.shields.io/badge/webpack-5.0.0-blue)](https://webpack.js.org/)
 
 I work as a Certified English teacher and study Frontend Development. I'm fluent in English (C2 level) 
 and can also speak some Chinese Mandarin (HSK3). I believe in Education and self-development. [Watch the video on YouTube](https://youtu.be/-CADlPmv0Dw)
