@@ -36,7 +36,7 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 ### Description
 This project involves building a Coffee Shop website, where users can explore various coffee products and interact with different features. The task includes implementing functionalities such as a responsive design, pburger menu, and a slider.
 
-![Снимок экрана 2025-02-23 в 9 24 42 PM](https://github.com/user-attachments/assets/88e838b8-35c4-42a4-b983-c27fa18f4d1f)
+<img width="500" height="300" alt="Coffe shop screenshot" src="https://github.com/user-attachments/assets/88e838b8-35c4-42a4-b983-c27fa18f4d1f" />
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
