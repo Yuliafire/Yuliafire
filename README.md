@@ -34,7 +34,7 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 ## 1. Coffee Shop
 
 ### Description
-This project involves building a Coffee Shop website, where users can explore various coffee products and interact with different features. The task includes implementing functionalities such as a responsive design, pburger menu, and a slider.
+This project involves building a Coffee Shop website, where users can explore various coffee products and interact with different features. The task includes implementing functionalities such as a responsive design, burger menu, and a slider.
 
 <a href="https://yuliafire.github.io/coffee-shop/coffee-shop/src/home/index.html" target="_blank">
     <img width="500" height="330" alt="Coffee shop screenshot" src="https://github.com/user-attachments/assets/88e838b8-35c4-42a4-b983-c27fa18f4d1f" />
