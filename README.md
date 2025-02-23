@@ -31,7 +31,28 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 
 # Projects
 
-## 1. [Task: Christmas Shop Part 3](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/christmas-shop/christmas-shop-part3.md)
+## 1. [Task: Coffee Shop]
+
+### Description
+This project involves building a Coffee Shop website, where users can explore various coffee products and interact with different features. The task includes implementing functionalities such as a responsive design, pburger menu, and a slider.
+
+![Снимок экрана 2025-02-23 в 9 24 42 PM](https://github.com/user-attachments/assets/88e838b8-35c4-42a4-b983-c27fa18f4d1f)
+
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Deployment 
+[Link](https://yuliafire.github.io/coffee-shop/coffee-shop/src/home/index.html)
+
+### Features Implemented:
+
+- **Burger menu**
+- **Responsive Design:**
+- **Slider on Home Page:** 
+
+
+## 2. [Task: Christmas Shop Part 3](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/christmas-shop/christmas-shop-part3.md)
 
 ### Description
 This project involves building a Christmas-themed shop website, where users can interact with a variety of gift-related features.
@@ -57,7 +78,7 @@ The task involves implementing various interactive functionalities, including a 
 - **Modal for Selected Product**
 
 
-## 2. [Task: Nonogram Game](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/nonograms)
+## 3. [Task: Nonogram Game](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/nonograms)
 
 ### Description
 This project involves building a **Nonogram Game**, a logic puzzle where players solve nonogram puzzles by filling cells in a grid based on numerical clues. The game is built using JavaScript and CSS, providing an interactive and engaging experience for users. The task includes implementing puzzle generation, user interaction, and validation of the solved puzzles.
