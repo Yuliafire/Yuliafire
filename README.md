@@ -40,6 +40,10 @@ This project involves building a Coffee Shop website, where users can explore va
 
 [![Coffee shop screenshot](https://github.com/user-attachments/assets/88e838b8-35c4-42a4-b983-c27fa18f4d1f)](https://yuliafire.github.io/coffee-shop/coffee-shop/src/home/index.html)
 
+<a href="https://yuliafire.github.io/coffee-shop/coffee-shop/src/home/index.html" target="_blank">
+    <img width="500" height="300" alt="Coffee shop screenshot" src="https://github.com/user-attachments/assets/88e838b8-35c4-42a4-b983-c27fa18f4d1f" />
+</a>
+
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
