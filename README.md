@@ -51,7 +51,8 @@ This project involves building a Coffee Shop website, where users can explore va
 
 - **Burger menu**
 - **Responsive Design:**
-- **Slider on Home Page:** 
+- **Slider on Home Page:**
+- **Button UP:** takes users back to the top of the page.
 
 
 ## 2. [Task: Christmas Shop Part 3](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/christmas-shop/christmas-shop-part3.md)
