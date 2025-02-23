@@ -31,7 +31,7 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 
 # Projects
 
-## 1. Coffee Shop (main page)
+## 1. Coffee Shop
 
 ### Description
 This project involves building a Coffee Shop website, where users can explore various coffee products and interact with different features. The task includes implementing functionalities such as a responsive design, burger menu, and a slider.
