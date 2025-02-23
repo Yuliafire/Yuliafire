@@ -1,4 +1,4 @@
-# Hi, I’m Yulia - Currently looking for a Junior Frontend Developer job!
+# Hi, I’m Yulia - looking for a Junior Frontend Dev Job!
 
 ## Tech Stack 
 
@@ -31,7 +31,7 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 
 # Projects
 
-## 1. Coffee Shop
+## 1. Coffee Shop (main page)
 
 ### Description
 This project involves building a Coffee Shop website, where users can explore various coffee products and interact with different features. The task includes implementing functionalities such as a responsive design, burger menu, and a slider.
