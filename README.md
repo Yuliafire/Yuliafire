@@ -1,5 +1,4 @@
-# Hi, I’m Yulia. 
-# My goal is to become a Junior Frontend Developer!
+# Hi, I’m Yulia. My goal is to become a Junior Frontend Developer!
 
 ## Tech Stack 
 
