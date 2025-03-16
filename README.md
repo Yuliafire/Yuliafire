@@ -1,4 +1,5 @@
-# Hi, I’m Yulia. My goal is to become a Junior Frontend Developer and master multiple programming languages!
+# Hi, I’m Yulia. 
+# My goal is to become a Junior Frontend Developer!
 
 ## Tech Stack 
 
