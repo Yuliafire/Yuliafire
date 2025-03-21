@@ -149,13 +149,13 @@ First introduction to Typescript Migration.
 - Set up ESLint to work with TypeScript.
 - Configure Webpack to work with TypeScript.
 - Migrate the application from JavaScript to TypeScript, using:
-    Enums
-    Interfaces
-    Types
-    Generics
-    Union Types
-    Access modifiers (private, public)
-    Utility Types (Partial, Pick, Readonly)
+    Enums,
+    Interfaces,
+    Types,
+    Generics,
+    Union Types,
+    Access modifiers (private, public),
+    Utility Types (Partial, Pick, Readonly).
 - Make the layout adaptive with a design at your discretion.
 
 
