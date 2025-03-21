@@ -142,7 +142,8 @@ This project involves building a **Nonogram Game**, a logic puzzle where players
    [link](https://rolling-scopes-school.github.io/yuliafire-JSFE2024Q4/)
 
 ### Description
-First introduction to Typescript Migration.
+First introduction to Typescript Migration. 
+News API is a simple HTTP REST API for searching and retrieving news from across the Internet
 
 ### Features Implemented:
 - Add TypeScript to the project.
