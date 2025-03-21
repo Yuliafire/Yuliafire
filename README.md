@@ -134,17 +134,15 @@ This project involves building a **Nonogram Game**, a logic puzzle where players
 
 <img width="500" height="300" alt="Снимок экрана 2025-03-13 в 1 41 57 PM" src="https://github.com/user-attachments/assets/47f0ffae-b12e-4b93-9fa3-3204ca1c8a4e" />
 
-### Deployment 
-   [link](https://rolling-scopes-school.github.io/yuliafire-JSFE2024Q4/)
-
-### Description
-First introduction to Typescript Migration.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 
 ### Deployment 
-[Link](https://rolling-scopes-school.github.io/yuliafire-JSFE2024Q4/nonograms/)
+   [link](https://rolling-scopes-school.github.io/yuliafire-JSFE2024Q4/)
+
+### Description
+First introduction to Typescript Migration.
 
 ### Features Implemented:
 - **Puzzle Generation:** Dynamically generates nonogram puzzles of varying difficulty levels.
