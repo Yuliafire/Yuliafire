@@ -145,9 +145,18 @@ This project involves building a **Nonogram Game**, a logic puzzle where players
 First introduction to Typescript Migration.
 
 ### Features Implemented:
-- **Puzzle Generation:** Dynamically generates nonogram puzzles of varying difficulty levels.
-- **Interactive Grid:** Allows users to click or drag to fill or mark cells in the grid.
-- **Clue Validation:** Validates the user's solution against the correct puzzle solution.
+- Add TypeScript to the project.
+- Set up ESLint to work with TypeScript.
+- Configure Webpack to work with TypeScript.
+- Migrate the application from JavaScript to TypeScript, using:
+    Enums
+    Interfaces
+    Types
+    Generics
+    Union Types
+    Access modifiers (private, public)
+    Utility Types (Partial, Pick, Readonly)
+- Make the layout adaptive with a design at your discretion.
 
 
  ## Certifications | Courses
