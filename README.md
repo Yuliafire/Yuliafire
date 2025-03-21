@@ -157,7 +157,7 @@ News API is a simple HTTP REST API for searching and retrieving news from across
     Union Types,
     Access modifiers (private, public),
     Utility Types (Partial, Pick, Readonly).
-- Make the layout adaptive with a design at your discretion.
+- Make the layout adaptive.
 
 
  ## Certifications | Courses
