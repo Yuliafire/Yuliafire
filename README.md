@@ -28,6 +28,7 @@
 
 I work as a Certified English teacher and study Frontend Development. I'm fluent in English (C2 level) 
 and can also speak some Chinese Mandarin (HSK3). I believe in Education and self-development. [Watch the video on YouTube](https://youtu.be/-CADlPmv0Dw)
+
 ![IMAGE 2025-02-09 10:01:27 PM](https://github.com/user-attachments/assets/7c0e74f5-db11-42f7-ae1a-323cf000e934)
 
 
