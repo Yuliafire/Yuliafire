@@ -36,6 +36,8 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 
 - 🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/)
 - 🏷 My logo: 不怕慢， 就怕听.
+- Personality: goal-oriented, hard-working, curious, resilient.
+- The biggest dream is to have an access to the quantum computer and go to Mars))
 
 # Projects
 
