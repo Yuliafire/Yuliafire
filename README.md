@@ -1,7 +1,8 @@
 # Hi, I’m Yulia. My goal is to become a Frontend Developer!
+Self-taught | 7 Months of Consistent Study
 “Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.” Bill Gates.
 
-## Tech Stack | 7 Months of Consistent Study | Self-Taught
+## Tech Stack 
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
