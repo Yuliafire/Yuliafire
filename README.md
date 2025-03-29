@@ -38,7 +38,7 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 - 🏷 My logo: 不怕慢， 就怕听.
 - Personality: goal-oriented, hard-working, resilient, positive, curious, multi-talented. 
 - In the future I want to become a mentor for those who will struggle to learn JS and Frontend.
-  Cause now as a learner I'm struggling a lot and find this journey extremelly challenging
+  Cause now as a learner I'm struggling a lot and find this journey extremely challenging
   so hopefully, I will get to the point in my life when I will be able to help others.  
 
 # Projects
