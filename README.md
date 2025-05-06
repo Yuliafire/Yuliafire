@@ -32,7 +32,7 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 
 
 ## TypeScript: Unlocking Type Safety | 2025 (in English).
-[Presentaton](https://youtu.be/aVOkSacvI7g)
+[Watch my Presentaton on YouTube](https://youtu.be/aVOkSacvI7g)
 
 
 - 🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/)
