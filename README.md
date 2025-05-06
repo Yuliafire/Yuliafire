@@ -31,7 +31,7 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 ![IMAGE 2025-02-09 10:01:27 PM](https://github.com/user-attachments/assets/7c0e74f5-db11-42f7-ae1a-323cf000e934)
 
 
-## TypeScript: Unlocking Type Safety | 2025 (in English).
+## TypeScript: Unlocking Type Safety | 2025 (in English)
 [Watch my Presentaton on YouTube](https://youtu.be/aVOkSacvI7g)
 
 
