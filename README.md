@@ -28,10 +28,11 @@
 I work as a Certified English teacher and study Frontend Development. I'm fluent in English (C2 level) 
 and can also speak some Chinese Mandarin (HSK3). I believe in Education and self-development. [Watch the video on YouTube](https://youtu.be/-CADlPmv0Dw)
 
-## TypeScript: Unlocking Type Safety | 2025
-https://youtu.be/aVOkSacvI7g
-
 ![IMAGE 2025-02-09 10:01:27 PM](https://github.com/user-attachments/assets/7c0e74f5-db11-42f7-ae1a-323cf000e934)
+
+
+## TypeScript: Unlocking Type Safety | 2025 (in English).
+[Presentaton](https://youtu.be/aVOkSacvI7g)
 
 
 - 🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/)
