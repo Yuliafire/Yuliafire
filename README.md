@@ -32,8 +32,9 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 
 
 ## TypeScript: Unlocking Type Safety (in English)
-[Watch my Presentaton on YouTube](https://youtu.be/aVOkSacvI7g)
 <img width="500" height="330" alt="Снимок экрана 2025-05-08 в 1 24 41 PM" src="https://github.com/user-attachments/assets/3ab90349-645b-4070-b874-20eb6f146cd4" />
+[Watch my Presentaton on YouTube](https://youtu.be/aVOkSacvI7g)
+
 
 - 🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/)
 - 🏷 My logo: 不怕慢， 就怕听.
