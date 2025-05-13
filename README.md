@@ -23,7 +23,7 @@
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
-
+![Vitest Badge](https://img.shields.io/badge/Vitest-4FC672?style=for-the-badge&logo=vitest&logoColor=white)
 
 I work as a Certified English teacher and study Frontend Development at RS School, EPAM. I'm fluent in English (C2 level) 
 and can also speak some Chinese Mandarin (HSK3). I believe in Education and self-development. [Watch the video on YouTube](https://youtu.be/-CADlPmv0Dw)
