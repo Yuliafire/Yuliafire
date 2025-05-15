@@ -172,7 +172,7 @@ News API is a simple HTTP REST API for searching and retrieving news from across
 
  ## Certifications | Courses
  
-- **RS School FRONTEND, JS (Stage 1)**
+- **RS School FRONTEND, JS (Stage 1, Stage 2 Graduate)**
 - **UDEMY course WEB DEVELOPER**
 
 <img src="https://github.com/user-attachments/assets/7c83b6d6-b4ed-4dab-b722-7b0687af95ac" alt="udemy cert web" width="300"/>
