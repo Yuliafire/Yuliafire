@@ -1,4 +1,5 @@
-# Hi, I’m Yulia. My goal is to become a Frontend Developer!
+# Hi, I’m Yulia. Frontend Developer (Beginner level🚀)
+# RS SCHOOL STAGE 1 / RS SCHOOL STAGE 2 in progress
 
 “Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.” Bill Gates.
 
