@@ -34,7 +34,7 @@ Repo: https://github.com/Yuliafire/eCommerce-dyson
 ### Features
 - User Authentication & Authorization.
 - Product Catalog: Browse Dyson products with search and filter functionality.
-- Shopping Cart: Add, remove, and manage items for purchase.
+- Shopping Cart: Add, remove, and manage items for purchase. Apply promocodes to receive a discount.
 
 ### Stack
 - Frontend: React, TypeScript
