@@ -45,12 +45,21 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 # Projects
 
 ## 1. Team Project: Ecommerce Dyson 
-![Снимок экрана 2025-06-20 в 11 22 47 PM](https://github.com/user-attachments/assets/24210544-d19d-437b-a34f-7dd264d1615b)
-![Снимок экрана 2025-06-20 в 11 23 36 PM](https://github.com/user-attachments/assets/39cc1f59-626f-463a-8ccd-a04bb31ccf1d)
-![Снимок экрана 2025-06-20 в 11 23 58 PM](https://github.com/user-attachments/assets/22541928-30e5-4e3a-9e18-05caadde6698)
+
+
+### Home Page
+<img src="https://github.com/user-attachments/assets/24210544-d19d-437b-a34f-7dd264d1615b" alt="Login Page" width="500" height="300">
+
+### Catalog Page
+<img src="https://github.com/user-attachments/assets/39cc1f59-626f-463a-8ccd-a04bb31ccf1d" alt="Chat Interface" width="500" height="300">
+
+### Registration Page 
+<img src="https://github.com/user-attachments/assets/22541928-30e5-4e3a-9e18-05caadde6698" alt="User List" width="500" height="300">
 
 ### Deployment 
 [Link]https://dyson-ecommerce.netlify.app/
+
+### Features Implemented:
 
 
 ## 1. Coffee Shop
