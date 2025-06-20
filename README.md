@@ -39,6 +39,9 @@
 ### Registration Page 
 <img src="https://github.com/user-attachments/assets/fa13bd1d-4e37-4fee-a202-2bee1a7f074d" alt="User List" width="500" height="370">
 
+## Cart Page
+<img src="https://github.com/user-attachments/assets/a68ca67e-a984-4dcb-946d-dbb219ce0668" alt="User List" width="500" height="370">
+
 ### My Team Page 
 <img src="https://github.com/user-attachments/assets/b04fbe91-88ba-4100-8a22-995f6cb666d4" alt="User List" width="500" height="370">
 
