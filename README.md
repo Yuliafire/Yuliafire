@@ -30,19 +30,19 @@
 
 ## Team Project:  Ecommerce Dyson | Deployment: [Link](https://dyson-ecommerce.netlify.app/)
 
-### Home Page
+## Home Page
 <img src="https://github.com/user-attachments/assets/3dfd81f3-337d-4f2c-bc74-3a10b7c6dab4" alt="Login Page" width="500" height="350">
 
-### Catalog Page
+## Catalog Page
 <img src="https://github.com/user-attachments/assets/e53d3d94-b349-4885-8b33-d8a8a07b0958" alt="Chat Interface" width="500" height="370">
 
-### Registration Page 
+## Registration Page 
 <img src="https://github.com/user-attachments/assets/fa13bd1d-4e37-4fee-a202-2bee1a7f074d" alt="User List" width="500" height="370">
 
 ## Cart Page
 <img src="https://github.com/user-attachments/assets/a68ca67e-a984-4dcb-946d-dbb219ce0668" alt="User List" width="500" height="370">
 
-### My Team Page 
+## My Team Page 
 <img src="https://github.com/user-attachments/assets/b04fbe91-88ba-4100-8a22-995f6cb666d4" alt="User List" width="500" height="370">
 
 
