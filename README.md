@@ -1,4 +1,4 @@
-# Junior Frontend Developer: JavaScript | TypeScript | React.
+![Снимок экрана 2025-06-20 в 11 22 47 PM](https://github.com/user-attachments/assets/18ac1a76-37fc-4f50-9b95-c4c4c9af5998)# Junior Frontend Developer: JavaScript | TypeScript | React.
 # RS School Stage 1- Stage 2 Frontend Course Graduate.
 
 “Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.” Bill Gates.
@@ -43,6 +43,15 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 - Personality: goal-oriented, hard-working, resilient, positive, curious, multi-talented. 
  
 # Projects
+
+## 1. Team Project: Ecommerce Dyson 
+![Снимок экрана 2025-06-20 в 11 22 47 PM](https://github.com/user-attachments/assets/24210544-d19d-437b-a34f-7dd264d1615b)
+![Снимок экрана 2025-06-20 в 11 23 36 PM](https://github.com/user-attachments/assets/39cc1f59-626f-463a-8ccd-a04bb31ccf1d)
+![Снимок экрана 2025-06-20 в 11 23 58 PM](https://github.com/user-attachments/assets/22541928-30e5-4e3a-9e18-05caadde6698)
+
+### Deployment 
+[Link]https://dyson-ecommerce.netlify.app/
+
 
 ## 1. Coffee Shop
 
