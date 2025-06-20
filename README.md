@@ -1,4 +1,4 @@
-# Hi, I’m Yulia. Frontend Developer (Beginner level🚀)
+# Frontend Developer (Beginner level🚀) | JavaScript | TypeScript | React.
 # RS SCHOOL STAGE 1 / RS SCHOOL STAGE 2 Graduate.
 
 “Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.” Bill Gates.
