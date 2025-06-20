@@ -16,7 +16,8 @@
 [![Git](https://img.shields.io/badge/git-FF4500?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![VirtualBox](https://img.shields.io/badge/VirtualBox-Expert-blue?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-Expert-blue?style=for-the-badge&logo=virtualbox&logoColor=white)]
+(https://www.virtualbox.org/)
 
 ## I'm currently learning
 
@@ -41,7 +42,7 @@
 <img src="https://github.com/user-attachments/assets/22541928-30e5-4e3a-9e18-05caadde6698" alt="User List" width="500" height="500">
 
 ### My Team Page 
-<img src="https://github.com/user-attachments/assets/acbfb545-1ff1-4d40-a245-5ec1adcd1053" alt="User List" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/b04fbe91-88ba-4100-8a22-995f6cb666d4" alt="User List" width="500" height="500">
 
 
 ## 1. Coffee Shop
