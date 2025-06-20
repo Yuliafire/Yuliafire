@@ -28,7 +28,7 @@
 
 # Projects
 
-## Team Project: Ecommerce Dyson | Deployment: [Link](https://dyson-ecommerce.netlify.app/)
+## Team Project:  Ecommerce Dyson | Deployment: [Link](https://dyson-ecommerce.netlify.app/)
 
 
 ### Home Page
