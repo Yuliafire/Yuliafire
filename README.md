@@ -29,6 +29,7 @@
 # Projects
 
 ## Team Project:  Ecommerce Dyson | Deployment: [Link](https://dyson-ecommerce.netlify.app/)
+Repo: https://github.com/Yuliafire/eCommerce-dyson
 
 ## Home Page
 <img src="https://github.com/user-attachments/assets/3dfd81f3-337d-4f2c-bc74-3a10b7c6dab4" alt="Login Page" width="500" height="350">
