@@ -42,7 +42,7 @@
 <img src="https://github.com/user-attachments/assets/22541928-30e5-4e3a-9e18-05caadde6698" alt="User List" width="500" height="500">
 
 ### My Team Page 
-<img src="https://github.com/user-attachments/assets/b04fbe91-88ba-4100-8a22-995f6cb666d4" alt="User List" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/b04fbe91-88ba-4100-8a22-995f6cb666d4" alt="User List" width="500" height="350">
 
 
 ## 1. Coffee Shop
