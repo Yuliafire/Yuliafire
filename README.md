@@ -39,7 +39,7 @@
 <img src="https://github.com/user-attachments/assets/39cc1f59-626f-463a-8ccd-a04bb31ccf1d" alt="Chat Interface" width="500" height="500">
 
 ### Registration Page 
-<img src="https://github.com/user-attachments/assets/22541928-30e5-4e3a-9e18-05caadde6698" alt="User List" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/fa13bd1d-4e37-4fee-a202-2bee1a7f074d" alt="User List" width="500" height="500">
 
 ### My Team Page 
 <img src="https://github.com/user-attachments/assets/b04fbe91-88ba-4100-8a22-995f6cb666d4" alt="User List" width="500" height="370">
