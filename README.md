@@ -31,6 +31,20 @@
 ## Team Project:  Ecommerce Dyson | Deployment: [Link](https://dyson-ecommerce.netlify.app/)
 Repo: https://github.com/Yuliafire/eCommerce-dyson
 
+### Features
+- User Authentication & Authorization.
+- Product Catalog: Browse Dyson products with search and filter functionality.
+- Shopping Cart: Add, remove, and manage items for purchase.
+
+### Stack
+- Frontend: React, TypeScript
+- Build Tool: Vite
+- Testing: Vitest, Jest
+- Code Quality: ESLint, Prettier
+- Git Hooks: Husky
+- Package Manager: npm
+- Swiper JS
+
 ## Home Page
 <img src="https://github.com/user-attachments/assets/3dfd81f3-337d-4f2c-bc74-3a10b7c6dab4" alt="Login Page" width="500" height="350">
 
