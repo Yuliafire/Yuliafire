@@ -36,7 +36,7 @@
 <img src="https://github.com/user-attachments/assets/24210544-d19d-437b-a34f-7dd264d1615b" alt="Login Page" width="500" height="500">
 
 ### Catalog Page
-<img src="https://github.com/user-attachments/assets/39cc1f59-626f-463a-8ccd-a04bb31ccf1d" alt="Chat Interface" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/e53d3d94-b349-4885-8b33-d8a8a07b0958" alt="Chat Interface" width="500" height="500">
 
 ### Registration Page 
 <img src="https://github.com/user-attachments/assets/fa13bd1d-4e37-4fee-a202-2bee1a7f074d" alt="User List" width="500" height="370">
