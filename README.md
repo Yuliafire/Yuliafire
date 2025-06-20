@@ -56,6 +56,9 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 ### Registration Page 
 <img src="https://github.com/user-attachments/assets/22541928-30e5-4e3a-9e18-05caadde6698" alt="User List" width="500" height="400">
 
+### My Team Page 
+<img src="https://github.com/user-attachments/assets/acbfb545-1ff1-4d40-a245-5ec1adcd1053" alt="User List" width="500" height="400">
+
 ### Deployment 
 [Link]https://dyson-ecommerce.netlify.app/
 
