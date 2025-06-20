@@ -26,22 +26,6 @@
 ![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 ![Vitest Badge](https://img.shields.io/badge/Vitest-4FC672?style=for-the-badge&logo=vitest&logoColor=white)
 
-I have worked as a Certified English teacher and studied Frontend Development at RS School, EPAM. I'm fluent in English (C2 level) 
-and can also speak some Chinese Mandarin (HSK3). I believe in Education and self-development. [Watch the video on YouTube](https://youtu.be/-CADlPmv0Dw)
-
-![IMAGE 2025-02-09 10:01:27 PM](https://github.com/user-attachments/assets/7c0e74f5-db11-42f7-ae1a-323cf000e934)
-
-
-## TypeScript: Unlocking Type Safety (in English)
-<img width="500" height="330" alt="Снимок экрана 2025-05-08 в 1 24 41 PM" src="https://github.com/user-attachments/assets/3ab90349-645b-4070-b874-20eb6f146cd4" />
-
-[Watch my Presentaton on YouTube](https://youtu.be/aVOkSacvI7g)
-
-
-- 🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/)
-- 🏷 My logo: 不怕慢， 就怕听.
-- Personality: goal-oriented, hard-working, resilient, positive, curious, multi-talented. 
- 
 # Projects
 
 ## 1. Team Project: Ecommerce Dyson 
@@ -188,6 +172,23 @@ News API is a simple HTTP REST API for searching and retrieving news from across
     Utility Types (Partial, Pick, Readonly).
 - Make the layout adaptive.
 
+- 
+I have worked as a Certified English teacher and studied Frontend Development at RS School, EPAM. I'm fluent in English (C2 level) 
+and can also speak some Chinese Mandarin (HSK3). I believe in Education and self-development. [Watch the video on YouTube](https://youtu.be/-CADlPmv0Dw)
+
+![IMAGE 2025-02-09 10:01:27 PM](https://github.com/user-attachments/assets/7c0e74f5-db11-42f7-ae1a-323cf000e934)
+
+
+## TypeScript: Unlocking Type Safety (in English)
+<img width="500" height="330" alt="Снимок экрана 2025-05-08 в 1 24 41 PM" src="https://github.com/user-attachments/assets/3ab90349-645b-4070-b874-20eb6f146cd4" />
+
+[Watch my Presentaton on YouTube](https://youtu.be/aVOkSacvI7g)
+
+
+- 🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/)
+- 🏷 My logo: 不怕慢， 就怕听.
+- Personality: goal-oriented, hard-working, resilient, positive, curious, multi-talented. 
+
 
  ## Certifications | Courses
  
@@ -196,8 +197,6 @@ News API is a simple HTTP REST API for searching and retrieving news from across
 
 <img src="https://github.com/user-attachments/assets/7c83b6d6-b4ed-4dab-b722-7b0687af95ac" alt="udemy cert web" width="300"/>
 
-
-
 - **Certified English Teacher (TEFL)**
 
  ## Languages
@@ -205,7 +204,6 @@ News API is a simple HTTP REST API for searching and retrieving news from across
 - **English**: C2 Level
 - **Chinese Mandarin**: HSK3 Level
 - **Russian**
-
 
 
 ## GitHub Stats
