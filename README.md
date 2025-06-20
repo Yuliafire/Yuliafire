@@ -28,7 +28,7 @@
 
 # Projects
 
-## 1. Team Project: Ecommerce Dyson 
+## 1. Team Project: Ecommerce Dyson | Deployment: [Link](https://dyson-ecommerce.netlify.app/)
 
 
 ### Home Page
@@ -42,11 +42,6 @@
 
 ### My Team Page 
 <img src="https://github.com/user-attachments/assets/acbfb545-1ff1-4d40-a245-5ec1adcd1053" alt="User List" width="500" height="500">
-
-### Deployment 
-[Link]https://dyson-ecommerce.netlify.app/
-
-### Features Implemented:
 
 
 ## 1. Coffee Shop
