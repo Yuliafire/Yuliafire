@@ -75,7 +75,7 @@ Repo: https://github.com/Yuliafire/eCommerce-dyson
   <img  width="500" height="330" alt="Снимок экрана 2025-04-03 в 2 40 32 PM" src="https://github.com/user-attachments/assets/150aa159-78fd-474c-a397-d2327bdd9889" />
 </a>
 
-3. Server Application for the Chat - repo: 
+3. Server Application for the Chat - run the server: https://github.com/Yuliafire/fun-chat-server
   To use the chat server application follow these steps:
 - **clone the repository**
 - **install the dependencies with npm i**
