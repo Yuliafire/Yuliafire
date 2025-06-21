@@ -30,7 +30,7 @@
  ## Languages
 - **English**: C2 Level
 - **Chinese Mandarin**: HSK3 Level
-- **Russian**
+- **Russian** (native)
 
 # Projects
 
