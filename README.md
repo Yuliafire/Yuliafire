@@ -68,7 +68,7 @@ Repo: https://github.com/Yuliafire/eCommerce-dyson
 
 
 
-## 1. Async Race
+## 1. Async Race | SPA built with native TypeScript
 1. Task: [link](https://github.com/rolling-scopes-school/tasks/tree/master/stage2/tasks/async-race)
 2. Screenshot:
 <a href="https://async-race-typescript.netlify.app/" target="_blank">
