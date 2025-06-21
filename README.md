@@ -26,7 +26,11 @@
 ![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 ![Vitest Badge](https://img.shields.io/badge/Vitest-4FC672?style=for-the-badge&logo=vitest&logoColor=white)
 
-## Languages: English (C2), Chinese (HSK3)
+
+ ## Languages
+- **English**: C2 Level
+- **Chinese Mandarin**: HSK3 Level
+- **Russian**
 
 # Projects
 
@@ -223,13 +227,6 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 <img src="https://github.com/user-attachments/assets/7c83b6d6-b4ed-4dab-b722-7b0687af95ac" alt="udemy cert web" width="300"/>
 
 - **Certified English Teacher (TEFL)**
-
- ## Languages
-
-- **English**: C2 Level
-- **Chinese Mandarin**: HSK3 Level
-- **Russian**
-
 
 ## GitHub Stats
 
