@@ -78,10 +78,10 @@ Repo: https://github.com/Yuliafire/eCommerce-dyson
 3. Server Application for the Chat.
 
 To use the chat server application follow these steps:
-    - ** clone the repository **
-    - ** install the dependencies with npm i **
-    - ** create the .env file and specify the port settings and server event log settings in it **
-    - ** start the local server using npm run start ** 
+    - **clone the repository**
+    - **install the dependencies with npm i**
+    - **create the .env file and specify the port settings and server event log settings in it**
+    - **start the local server using npm run start** 
 
 4. Deploy: [SPA Async Race](https://async-race-typescript.netlify.app/)
 
