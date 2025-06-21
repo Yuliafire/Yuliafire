@@ -207,6 +207,9 @@ News API is a simple HTTP REST API for searching and retrieving news from across
     Utility Types (Partial, Pick, Readonly).
 - Make the layout adaptive.
 
+## PASSED 2 CORE JS INTERVIEWS & TECHNICAK SCREENING on Advanced JavaScript | TypeScript concepts, algorithms, OOP, Funtional Programming, AJAX.
+<img width="500" height="300" alt="Снимок экрана 2025-06-22 в 12 45 39 AM" src="https://github.com/user-attachments/assets/80e5d8d4-5460-42cc-8057-e6684e41f960" />
+
 ## ABOUT ME
 I have worked as a Certified English teacher and studied Frontend Development at RS School, EPAM. I'm fluent in English (C2 level) 
 and can also speak some Chinese Mandarin (HSK3). I believe in Education and self-development. [Watch the video on YouTube](https://youtu.be/-CADlPmv0Dw)
