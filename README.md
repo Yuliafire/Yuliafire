@@ -81,7 +81,7 @@ Repo: https://github.com/Yuliafire/eCommerce-dyson
 - **install the dependencies with npm i**
 - **start the local server using npm run start**
 
-4. Deploy: [SPA Async Race](https://async-race-typescript.netlify.app/)
+4. Deployment: [SPA Async Race](https://async-race-typescript.netlify.app/)
 
 
 ## 2. Coffee Shop
