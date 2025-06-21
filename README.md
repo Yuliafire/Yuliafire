@@ -223,9 +223,9 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 [Watch my Presentaton on YouTube](https://youtu.be/aVOkSacvI7g)
 
 
-- 🌐 Learn more about me: [My Website](https://english-speaker.netlify.app/)
+- 🌐 My personal website: [My Website](https://english-speaker.netlify.app/)
 - 🏷 My logo: 不怕慢， 就怕听.
-- Personality: goal-oriented, hard-working, resilient, positive, curious, multi-talented. 
+- Personality: goal-oriented, hard-working, resilient, positive, curious, multi-talented.
 
 
  ## Certifications | Courses
