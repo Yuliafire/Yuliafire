@@ -65,10 +65,13 @@ Repo: https://github.com/Yuliafire/eCommerce-dyson
 ## 1. Async Race
 1. Task: [link](https://github.com/rolling-scopes-school/tasks/tree/master/stage2/tasks/async-race)
 2. Screenshot:
-<img width="1440" alt="Снимок экрана 2025-04-03 в 2 40 32 PM" src="https://github.com/user-attachments/assets/150aa159-78fd-474c-a397-d2327bdd9889" />
+3. 
+<a href="https://async-race-typescript.netlify.app/" target="_blank">
+  <img  width="500" height="330" alt="Снимок экрана 2025-04-03 в 2 40 32 PM" src="https://github.com/user-attachments/assets/150aa159-78fd-474c-a397-d2327bdd9889" />
+</a>
 
 
-3. Deploy: [SPA Async Race](https://async-race-typescript.netlify.app/)
+4. Deploy: [SPA Async Race](https://async-race-typescript.netlify.app/)
 
 
 ## 2. Coffee Shop
