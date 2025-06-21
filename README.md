@@ -61,7 +61,17 @@ Repo: https://github.com/Yuliafire/eCommerce-dyson
 <img src="https://github.com/user-attachments/assets/b04fbe91-88ba-4100-8a22-995f6cb666d4" alt="User List" width="500" height="370">
 
 
-## 1. Coffee Shop
+
+## 1. Async Race
+1. Task: [link](https://github.com/rolling-scopes-school/tasks/tree/master/stage2/tasks/async-race)
+2. Screenshot:
+<img width="1440" alt="Снимок экрана 2025-04-03 в 2 40 32 PM" src="https://github.com/user-attachments/assets/150aa159-78fd-474c-a397-d2327bdd9889" />
+
+
+3. Deploy: [SPA Async Race](https://async-race-typescript.netlify.app/)
+
+
+## 2. Coffee Shop
 
 ### Description
 This project involves building a Coffee Shop website, where users can explore various coffee products and interact with different features. The task includes implementing functionalities such as a responsive design, burger menu, and a slider.
