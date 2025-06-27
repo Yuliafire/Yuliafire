@@ -32,6 +32,9 @@
 - **Chinese Mandarin**: HSK3 Level
 - **Russian** (native)
 
+# RS SCHOOL Mentor's Feedback
+![IMAGE 2025-06-27 3:20:36 PM](https://github.com/user-attachments/assets/3daf556b-212e-4070-8518-5aa1496c4185)
+
 # Projects
 
 ## Team Project:  Ecommerce Dyson | Deployment: [Link](https://ecommerce-dyson.netlify.app/)
