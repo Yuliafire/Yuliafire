@@ -32,7 +32,7 @@
 - **Chinese Mandarin**: HSK3 Level
 - **Russian** (native)
 
-# READ RS SCHOOL Mentor's Feedback
+# Read Rs School Mentor's Feedback
 ![IMAGE 2025-06-27 3:24:06 PM](https://github.com/user-attachments/assets/b5416e17-1cf1-4541-b023-3a8bb5776f5c)
 https://app.rs.school/cv/edit
 
