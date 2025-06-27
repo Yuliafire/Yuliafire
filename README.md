@@ -33,7 +33,7 @@
 - **Russian** (native)
 
 # RS SCHOOL Mentor's Feedback
-![IMAGE 2025-06-27 3:20:36 PM](https://github.com/user-attachments/assets/3daf556b-212e-4070-8518-5aa1496c4185)
+![IMAGE 2025-06-27 3:24:06 PM](https://github.com/user-attachments/assets/b5416e17-1cf1-4541-b023-3a8bb5776f5c)
 
 # Projects
 
