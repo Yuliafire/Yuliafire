@@ -1,5 +1,6 @@
 # Junior Frontend Developer: JavaScript | TypeScript | React.
 # RS School Stage 1- Stage 2 Frontend Course Graduate.
+ ## certificate https://app.rs.school/certificate/udfr20ip
 
 “Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.” Bill Gates.
 
