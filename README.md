@@ -40,7 +40,7 @@ https://app.rs.school/cv/edit
 
 # Projects
 
-## Team Project:  Ecommerce Dyson | Deployment: [Link](https://ecommerce-dyson.netlify.app/)
+## Team Project:  Ecommerce Dyson | Deployment: [Link](https://dyson-ecommerce.netlify.app)
 Repo: https://github.com/Yuliafire/eCommerce-dyson
 
 ### Features
