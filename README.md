@@ -33,7 +33,6 @@
 - **Russian** (native)
 
  ## certificate https://app.rs.school/certificate/udfr20ip
-https://app.rs.school/cv/
 
 ## GitHub Stats
 
