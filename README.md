@@ -1,4 +1,4 @@
-# Junior Frontend Developer: JavaScript | TypeScript | React.
+# Frontend Developer: JavaScript | TypeScript | React.
 
 
 “Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.” Bill Gates.
