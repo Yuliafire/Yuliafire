@@ -29,11 +29,6 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 
-## I'm currently learning
-
-
-
-
  ## Languages
 - **English**: C2 Level
 - **Chinese Mandarin**: HSK3 Level
