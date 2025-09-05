@@ -35,6 +35,14 @@
  ## certificate https://app.rs.school/certificate/udfr20ip
 https://app.rs.school/cv/
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuliafire)
+
+## Activity Overview
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuliafire&bg_color=181617&color=9e4c98&line=f104e1&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 # Projects
 
 ## Team Project:  Ecommerce Dyson | Deployment: [Link](https://dyson-ecommerce.netlify.app)
@@ -239,14 +247,6 @@ and can also speak some Chinese Mandarin (HSK3). I believe in Education and self
 <img src="https://github.com/user-attachments/assets/7c83b6d6-b4ed-4dab-b722-7b0687af95ac" alt="udemy cert web" width="300"/>
 
 - **Certified English Teacher (TEFL)**
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuliafire)
-
-## Activity Overview
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuliafire&bg_color=181617&color=9e4c98&line=f104e1&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
