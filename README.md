@@ -34,6 +34,8 @@
 - **Chinese Mandarin**: HSK3 Level
 - **Russian** (native)
 
+As a Frontend Developer and Certified English Teacher with a passion for technology and innovation, I am eager to collaborate on transformative projects that leverage my technical skills and educational expertise.
+I successfully graduated from RS School Javascript | Frontend Stage 1, 2  and received real-world  developer experience by collaborating on E-commerce project. 
  ## certificate https://app.rs.school/certificate/udfr20ip
 
 ## GitHub Stats
