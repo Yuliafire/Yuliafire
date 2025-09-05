@@ -1,6 +1,5 @@
 # Junior Frontend Developer: JavaScript | TypeScript | React.
 
- ## certificate https://app.rs.school/certificate/udfr20ip
 
 “Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.” Bill Gates.
 
