@@ -32,9 +32,6 @@
 - **Chinese Mandarin**: HSK3 Level
 - **Russian** (native)
 
-# Read Rs School Mentor's Feedback
-<img src="https://github.com/user-attachments/assets/b5416e17-1cf1-4541-b023-3a8bb5776f5c" width="350" height="700" >
-
  ## certificate https://app.rs.school/certificate/udfr20ip
 https://app.rs.school/cv/
 
