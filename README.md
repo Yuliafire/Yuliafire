@@ -81,8 +81,15 @@ Repo: https://github.com/Yuliafire/eCommerce-dyson
 <img src="https://github.com/user-attachments/assets/b04fbe91-88ba-4100-8a22-995f6cb666d4" alt="User List" width="500" height="370">
 
 
+## 1. Angel Spa | HTML, CSS, JS  project.
 
-## 1. Async Race | SPA built with native TypeScript
+<img width="1247" height="833" alt="Screenshot 2025-09-03 at 1 23 10 PM" src="https://github.com/user-attachments/assets/1c87ea0b-a856-4508-a0e9-ae5e0be5b587" />
+
+Repo: [link](https://github.com/Yuliafire/angel-spa/pull/1)
+
+
+
+## 2. Async Race | SPA built with native TypeScript
 1. Task: [link](https://github.com/rolling-scopes-school/tasks/tree/master/stage2/tasks/async-race)
 2. Screenshot:
 <a href="https://async-race-typescript.netlify.app/" target="_blank">
@@ -98,7 +105,7 @@ Repo: https://github.com/Yuliafire/eCommerce-dyson
 4. Deployment: [SPA Async Race](https://async-race-typescript.netlify.app/)
 
 
-## 2. Coffee Shop
+## 3. Coffee Shop
 
 ### Description
 This project involves building a Coffee Shop website, where users can explore various coffee products and interact with different features. The task includes implementing functionalities such as a responsive design, burger menu, and a slider.
@@ -123,7 +130,7 @@ This project involves building a Coffee Shop website, where users can explore va
 
 
 
-## 2. [Task: Christmas Shop Part 3](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/christmas-shop/christmas-shop-part3.md)
+## 4. [Task: Christmas Shop Part 3](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/christmas-shop/christmas-shop-part3.md)
 
 ### Description
 This project involves building a Christmas-themed shop website, where users can interact with a variety of gift-related features.
@@ -149,7 +156,7 @@ The task involves implementing various interactive functionalities, including a 
 - **Modal for Selected Product**
 
 
-## 3. [Task: Nonogram Game](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/nonograms)
+## 5. [Task: Nonogram Game](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/nonograms)
 
 ### Description
 This project involves building a **Nonogram Game**, a logic puzzle where players solve nonogram puzzles by filling cells in a grid based on numerical clues. The game is built using JavaScript and CSS, providing an interactive and engaging experience for users. The task includes implementing puzzle generation, user interaction, and validation of the solved puzzles.
@@ -192,7 +199,7 @@ This project involves building a **Nonogram Game**, a logic puzzle where players
 
 
 
-  ## 4. [Task: News API](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/migration-newip-to-ts.md)
+  ## 6. [Task: News API](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/migration-newip-to-ts.md)
 
 <img width="500" height="300" alt="Снимок экрана 2025-03-13 в 1 41 57 PM" src="https://github.com/user-attachments/assets/47f0ffae-b12e-4b93-9fa3-3204ca1c8a4e" />
 
