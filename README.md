@@ -86,6 +86,7 @@ Repo: https://github.com/Yuliafire/eCommerce-dyson
 <img width="1247" height="833" alt="Screenshot 2025-09-03 at 1 23 10 PM" src="https://github.com/user-attachments/assets/1c87ea0b-a856-4508-a0e9-ae5e0be5b587" />
 
 Repo: [link](https://github.com/Yuliafire/angel-spa/pull/1)
+
 Deploy: [link](https://yuliafire.github.io/angel-spa/)
 
 
