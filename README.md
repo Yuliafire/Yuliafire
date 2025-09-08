@@ -18,7 +18,7 @@
 
 <p>🔭 2+ years in web development</p>
 <p>🤝 Team player</p>
-<p>👯 I’m looking to collaborate on unique React projects</p>
+<p>👯 I’m excited to collaborate on innovative React and Next.js projects, like building AI-powered web apps.</p>
 <p>🌱 Currently learning Next.js</p>
 <p>🎓 Certified English Teacher (TEFL)</p>
 <p>💬 Ask me about English in web development</p>
