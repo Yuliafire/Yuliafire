@@ -1,3 +1,97 @@
+<h1 align="center">Hi, I'm <b>Yulia Podgurskaia</b> 👋</h1>
+
+<p align="center"><span style="font-size:20px;">💻 <b>Frontend Developer</b></span></p>
+
+<p align="center">
+  <svg width="600" height="30" viewBox="0 0 600 30" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="JavaScript · TypeScript · React">
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+          font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+          font-size="16" font-weight="700">
+      <tspan fill="#F7DF1E">JavaScript</tspan>
+      <tspan dx="8" fill="#7FBF60">|</tspan>
+      <tspan dx="8" fill="#3178C6">TypeScript</tspan>
+      <tspan dx="8" fill="#489FCF">|</tspan>
+      <tspan dx="8" fill="#61DAFB">React</tspan>
+    </text>
+  </svg>
+</p>
+
+<p>🔭 2+ years in web development</p>
+<p>🤝 Team player</p>
+<p>👯 I’m looking to collaborate on unique React projects</p>
+<p>🌱 Currently learning Next.js</p>
+<p>🎓 Certified English Teacher (TEFL)</p>
+<p>💬 Ask me about English in web development</p>
+<!-- <p>⚡ Fun fact: ...</p> -->
+
+<h2>Stack</h2>
+
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vitest&logoColor=white)
+![Husky](https://img.shields.io/badge/Husky-000000?style=for-the-badge&logo=git&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![Vitest Badge](https://img.shields.io/badge/Vitest-4FC672?style=for-the-badge&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-FF4500?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<h2>From teaching English to Frontend Development</h2>
+
+<p><i>“Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.”</i> — Bill Gates</p>
+
+<p>I have worked as a Certified English teacher for more than 10 years and studied Frontend Development at RS School, EPAM. I'm fluent in English (C2 level)
+and can also speak Chinese Mandarin (HSK3). I believe in Education and self-development.</p>
+<p>Visit my <a href="https://english-speaker.netlify.app" target="_blank" rel="noreferrer">website</a> to see more about ... and <a href="https://youtu.be/-CADlPmv0Dw" 
+target="_blank" rel="noreferrer">watch the video on YouTube</a></p>
+
+<!-- вниз в ссылку закинь. картинку в assets, link на картинку в src -->
+
+![IMAGE 2025-02-09 10:01:27 PM](https://github.com/user-attachments/assets/7c0e74f5-db11-42f7-ae1a-323cf000e934)
+
+<a href="https://youtu.be/-CADlPmv0Dw" target="_blank" rel="noreferrer"><img alt="" src="assets/" align="center"></a>
+
+<h2>Languages</h2>
+
+- **English** — C2
+- **Chinese** (Mandarin) — HSK3
+- **Russian** — native
+
+<h2>Stats</h2>
+
+<img src="https://www.codewars.com/users/Yuliafire/badges/small" alt="codewars-stats" >
+
+<img alt="profile-stats" src="https://github-readme-stats.vercel.app/api?username=Yuliafire&custom_title=Profile%20Stats&hide=stars,issues&show_icons=true&
+rank_icon=percentile" /> <img alt="langs-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?method=commits&username=Yuliafire&layout=compact" /> <img 
+alt="langs-by-commit-stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yuliafire&theme=default" />
+
+<img alt="contribution" src="https://github-readme-activity-graph.vercel.app/graph?username=Yuliafire&bg_color=ffffff&color=9e4c98&line=f104e1&point=403d3d&area=true&
+hide_border=true" />
+
+<img alt="view-counter" src="https://komarev.com/ghpvc/?username=Yuliafire" />
+
+
+
+
+
+
 # Frontend Developer: JavaScript, TypeScript, React.
 
 
