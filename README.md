@@ -74,7 +74,7 @@ target="_blank" rel="noreferrer">watch the video on YouTube</a></p>
 - **Chinese** (Mandarin) — HSK3
 - **Russian** — native
 
-<h2>Stats</h2>
+<h2>GitHub Stats</h2>
 
 <img src="https://www.codewars.com/users/Yuliafire/badges/small" alt="codewars-stats" >
 
@@ -88,53 +88,11 @@ hide_border=true" />
 <img alt="view-counter" src="https://komarev.com/ghpvc/?username=Yuliafire" />
 
 
-
-
-
-
-# Frontend Developer: JavaScript, TypeScript, React.
-
-
-“Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.” Bill Gates.
-
-## Tech Stack 
-
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-[![Git](https://img.shields.io/badge/git-FF4500?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-![Husky](https://img.shields.io/badge/Husky-000000?style=for-the-badge&logo=git&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vitest Badge](https://img.shields.io/badge/Vitest-4FC672?style=for-the-badge&logo=vitest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-
- ## Languages
-- **English**: C2 Level
-- **Chinese Mandarin**: HSK3 Level
-- **Russian** (native)
-
 As a Frontend Developer and Certified English Teacher with a passion for technology and innovation, I am eager to collaborate on transformative projects that leverage my technical skills and educational expertise.
 I successfully graduated from RS School Javascript | Frontend Stage 1, 2  and received real-world  developer experience by collaborating on E-commerce project. 
  ### Certificate: [link](https://app.rs.school/certificate/udfr20ip)
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuliafire)
 
 ## Activity Overview
 
