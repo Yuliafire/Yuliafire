@@ -22,7 +22,14 @@
 <p>🌱 Currently learning Next.js</p>
 <p>🎓 Certified English Teacher (TEFL)</p>
 <p>💬 Ask me about English in web development</p>
-<!-- <p>⚡ Fun fact: ...</p> -->
+
+<div align="center">
+  <a href="https://t.me/szczuczynszczyna" target="_blank" rel="noreferrer"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/goodvalts/" target="_blank" rel="noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:martiniukgomel@gmail.com" target="_blank" rel="noreferrer"><img alt="gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+
 
 <h2>Stack</h2>
 
