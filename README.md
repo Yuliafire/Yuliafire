@@ -282,32 +282,18 @@ News API is a simple HTTP REST API for searching and retrieving news from across
 ## Passed 2 Core JS Interviews & Tech screening on Advanced JavaScript | TypeScript concepts, algorithms, OOP, Functional Programming, AJAX.
 <img width="500" height="300" alt="Снимок экрана 2025-06-22 в 12 45 39 AM" src="https://github.com/user-attachments/assets/80e5d8d4-5460-42cc-8057-e6684e41f960" />
 
-## ABOUT ME
-I have worked as a Certified English teacher and studied Frontend Development at RS School, EPAM. I'm fluent in English (C2 level) 
-and can also speak some Chinese Mandarin (HSK3). I believe in Education and self-development. [Watch the video on YouTube](https://youtu.be/-CADlPmv0Dw)
-
-![IMAGE 2025-02-09 10:01:27 PM](https://github.com/user-attachments/assets/7c0e74f5-db11-42f7-ae1a-323cf000e934)
-
-
 ## TypeScript: Unlocking Type Safety (in English)
 <img width="500" height="330" alt="Снимок экрана 2025-05-08 в 1 24 41 PM" src="https://github.com/user-attachments/assets/3ab90349-645b-4070-b874-20eb6f146cd4" />
 
 [Watch my Presentaton on YouTube](https://youtu.be/aVOkSacvI7g)
 
 
-- 🌐 My personal website: [My Website](https://english-speaker.netlify.app/)
-- An Excellent Team-Player with Strong Communication Skills. 
-- Personality: goal-oriented, hard-working, resilient, positive, curious, multi-talented.
-
-
  ## Certifications | Courses
- 
 - **RS School FRONTEND, JS (Stage 1, Stage 2 Graduate)**
 - **UDEMY course WEB DEVELOPER**
 
 <img src="https://github.com/user-attachments/assets/7c83b6d6-b4ed-4dab-b722-7b0687af95ac" alt="udemy cert web" width="300"/>
 
-- **Certified English Teacher (TEFL)**
 
 
 
