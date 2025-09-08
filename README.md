@@ -76,8 +76,6 @@ target="_blank" rel="noreferrer">watch the video on YouTube</a></p>
 
 <h2>GitHub Stats</h2>
 
-<img src="https://www.codewars.com/users/Yuliafire/badges/small" alt="codewars-stats" >
-
 <img alt="profile-stats" src="https://github-readme-stats.vercel.app/api?username=Yuliafire&custom_title=Profile%20Stats&hide=stars,issues&show_icons=true&
 rank_icon=percentile" /> <img alt="langs-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?method=commits&username=Yuliafire&layout=compact" /> <img 
 alt="langs-by-commit-stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yuliafire&theme=default" />
