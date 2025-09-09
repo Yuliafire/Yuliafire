@@ -73,17 +73,6 @@ target="_blank" rel="noreferrer">watch the video on YouTube</a></p>
 </a>
 ![IMAGE 2025-02-09 10:01:27 PM](https://github.com/user-attachments/assets/7c0e74f5-db11-42f7-ae1a-323cf000e934)
 
-
-<a href="https://youtu.be/-CADlPmv0Dw" target="_blank" rel="noopener noreferrer">
-  <img 
-    alt="YouTube video thumbnail" 
-    src="https://github.com/user-attachments/assets/7c0e74f5-db11-42f7-ae1a-323cf000e934" 
-    style="display: block; margin: 0 auto; cursor: pointer;"
-  >
-</a>
-
-
-
 <h2>Languages</h2>
 
 - **English** — C2
