@@ -95,8 +95,6 @@ hide_border=true" />
 I successfully graduated from RS School Javascript | Frontend Stage 1, 2  and received real-world  developer experience by collaborating on E-commerce project. 
  [Rs School Certificate](https://app.rs.school/certificate/udfr20ip)
 
-[UDEMY course WEB DEVELOPER](https://github.com/user-attachments/assets/7c83b6d6-b4ed-4dab-b722-7b0687af95ac" alt="udemy cert web" width="300")
-
 # Projects
 
 ## Team Project:  Ecommerce Dyson | Deployment: [Link](https://dyson-ecommerce.netlify.app)
