@@ -93,7 +93,7 @@ hide_border=true" />
 ## Certificates
 
 I successfully graduated from RS School Javascript | Frontend Stage 1, 2  and received real-world  developer experience by collaborating on E-commerce project. 
- [link](https://app.rs.school/certificate/udfr20ip)
+ [Rs School Certificate](https://app.rs.school/certificate/udfr20ip)
 
 # Projects
 
