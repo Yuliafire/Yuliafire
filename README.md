@@ -95,6 +95,8 @@ hide_border=true" />
 I successfully graduated from RS School Javascript | Frontend Stage 1, 2  and received real-world  developer experience by collaborating on E-commerce project. 
  [Rs School Certificate](https://app.rs.school/certificate/udfr20ip)
 
+[UDEMY course WEB DEVELOPER](https://github.com/user-attachments/assets/7c83b6d6-b4ed-4dab-b722-7b0687af95ac" alt="udemy cert web" width="300")
+
 # Projects
 
 ## Team Project:  Ecommerce Dyson | Deployment: [Link](https://dyson-ecommerce.netlify.app)
@@ -286,14 +288,6 @@ News API is a simple HTTP REST API for searching and retrieving news from across
 <img width="500" height="330" alt="Снимок экрана 2025-05-08 в 1 24 41 PM" src="https://github.com/user-attachments/assets/3ab90349-645b-4070-b874-20eb6f146cd4" />
 
 [Watch my Presentaton on YouTube](https://youtu.be/aVOkSacvI7g)
-
-
- ## Certifications | Courses
-- **RS School FRONTEND, JS (Stage 1, Stage 2 Graduate)**
-- **UDEMY course WEB DEVELOPER**
-
-<img src="https://github.com/user-attachments/assets/7c83b6d6-b4ed-4dab-b722-7b0687af95ac" alt="udemy cert web" width="300"/>
-
 
 
 
