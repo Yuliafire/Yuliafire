@@ -90,9 +90,10 @@ hide_border=true" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuliafire&bg_color=181617&color=9e4c98&line=f104e1&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-As a Frontend Developer and Certified English Teacher with a passion for technology and innovation, I am eager to collaborate on transformative projects that leverage my technical skills and educational expertise.
+## Certificates
+
 I successfully graduated from RS School Javascript | Frontend Stage 1, 2  and received real-world  developer experience by collaborating on E-commerce project. 
- ### Certificate: [link](https://app.rs.school/certificate/udfr20ip)
+ [link](https://app.rs.school/certificate/udfr20ip)
 
 # Projects
 
