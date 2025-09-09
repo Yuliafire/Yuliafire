@@ -67,10 +67,6 @@ and can also speak Chinese Mandarin (HSK3). I believe in Education and self-deve
 <p>Visit my <a href="https://english-speaker.netlify.app" target="_blank" rel="noreferrer">website</a> to learn more about me... and <a href="https://youtu.be/-CADlPmv0Dw" 
 target="_blank" rel="noreferrer">watch the video on YouTube</a></p>
 
-<!-- Image linked to YouTube video -->
-<a href="https://youtu.be/-CADlPmv0Dw" target="_blank" rel="noreferrer">
-  <img alt="YouTube video thumbnail" src="assets/video-thumbnail.jpg" style="display: block; margin: 0 auto;">
-</a>
 ![IMAGE 2025-02-09 10:01:27 PM](https://github.com/user-attachments/assets/7c0e74f5-db11-42f7-ae1a-323cf000e934)
 
 <h2>Languages</h2>
