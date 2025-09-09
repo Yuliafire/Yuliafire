@@ -138,8 +138,6 @@ Repo: [link](https://github.com/Yuliafire/angel-spa/pull/1)
 
 Deploy: [link](https://yuliafire.github.io/angel-spa/)
 
-
-
 ## 2. Async Race | SPA built with native TypeScript
 1. Task: [link](https://github.com/rolling-scopes-school/tasks/tree/master/stage2/tasks/async-race)
 2. Screenshot:
@@ -178,8 +176,6 @@ This project involves building a Coffee Shop website, where users can explore va
 - **Burger menu**
 - **Responsive Design**
 - **Slider on Home Page**
-
-
 
 ## 4. [Task: Christmas Shop Part 3](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/christmas-shop/christmas-shop-part3.md)
 
@@ -279,8 +275,6 @@ News API is a simple HTTP REST API for searching and retrieving news from across
     Utility Types (Partial, Pick, Readonly).
 - Make the layout adaptive.
 
-## Passed 2 Core JS Interviews & Tech screening on Advanced JavaScript | TypeScript concepts, algorithms, OOP, Functional Programming, AJAX.
-<img width="500" height="300" alt="Снимок экрана 2025-06-22 в 12 45 39 AM" src="https://github.com/user-attachments/assets/80e5d8d4-5460-42cc-8057-e6684e41f960" />
 
 ## TypeScript: Unlocking Type Safety (in English)
 <img width="500" height="330" alt="Снимок экрана 2025-05-08 в 1 24 41 PM" src="https://github.com/user-attachments/assets/3ab90349-645b-4070-b874-20eb6f146cd4" />
