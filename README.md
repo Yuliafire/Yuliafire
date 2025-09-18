@@ -28,6 +28,8 @@
 <p>🌱 Currently learning Next.js</p>
 <p>🎓 Certified English Teacher (TEFL)</p>
 <p>💬 Ask me about English in web development</p>
+<p>🎓 Currently learning AI integration tools and Python automation</p>
+
 
 <h2>Stack</h2>
 
