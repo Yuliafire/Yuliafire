@@ -98,6 +98,11 @@ I successfully graduated from RS School Javascript | Frontend Stage 1, 2  and re
 
 # Projects
 
+## Pet Project in a development stage: [Link](https://english-premium.netlify.app/)
+<img width="1107" height="776" alt="Screenshot 2025-10-14 at 11 20 35 PM" src="https://github.com/user-attachments/assets/741e3c8a-ef87-421b-97b0-2a6f2b8bca14" />
+<img width="1107" height="776" alt="Screenshot 2025-10-14 at 11 21 49 PM" src="https://github.com/user-attachments/assets/3abc77ab-a840-4a89-8cb6-e501235da5bc" />
+
+
 ## Team Project:  Ecommerce Dyson | Deployment: [Link](https://dyson-ecommerce.netlify.app)
 Repo: https://github.com/Yuliafire/eCommerce-dyson
 
