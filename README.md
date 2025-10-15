@@ -102,6 +102,8 @@ I successfully graduated from RS School Javascript | Frontend Stage 1, 2  and re
 ### [Test Deployment Link](https://english-premium.netlify.app/)
 ### Stack
 - Frontend: Next.js, TypeScript
+- UI: Snadcn
+- Styling: Tailwind
 - Build Tool: Vite
 - Testing: Vitest, Jest
 - Code Quality: ESLint, Prettier
