@@ -9,7 +9,7 @@
 <p align="center"><span style="font-size:20px;">💻 <b>Frontend Developer</b></span></p>
 
 <p align="center">
-  <svg width="600" height="30" viewBox="0 0 600 30" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="JavaScript · TypeScript · React · Next.js">
+  <svg width="600" height="30" viewBox="0 0 600 30" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="JavaScript · TypeScript · React">
     <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
           font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
           font-size="16" font-weight="700">
