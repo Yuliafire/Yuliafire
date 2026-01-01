@@ -173,8 +173,8 @@ A Next.js application demonstrating different rendering strategies—Client-Side
 ##  Harry Potter API | React js. 
 <img width="500" height="370" alt="Screenshot 2026-01-01 at 9 39 03 PM" src="https://github.com/user-attachments/assets/07888a6f-38d6-41c1-871d-2591ed613414" />
 
-## Deploy [Link](https://harry-potter-api-kohl.vercel.app/)
-## Repo [Link](https://github.com/Yuliafire/harry-potter-api/pull/1)
+### Deploy [Link](https://harry-potter-api-kohl.vercel.app/)
+### Repo [Link](https://github.com/Yuliafire/harry-potter-api/pull/1)
 
 ## 1. Angel Spa | HTML, CSS, JS  project.
 
