@@ -149,6 +149,8 @@ Repo: https://github.com/Yuliafire/eCommerce-dyson
 
 ## Next.js: next-csr-ssr-ssg-isr
 implementing different rendering modes in Next.js 
+### Repo [Link](https://github.com/Yuliafire/next-csr-ssr-ssg-isr/pull/1)
+### Deploy [Link](https://next-ssr-ssg-csr-isr.netlify.app/)
 
 A Next.js application demonstrating different rendering strategies—Client-Side Rendering (CSR), Static Site Generation (SSG), Server-Side Rendering (SSR), and Incremental Static Regeneration (ISR)—using the App Router. This project showcases how to build dynamic and static pages with real-time data fetching from the JSONPlaceholder API.
 
