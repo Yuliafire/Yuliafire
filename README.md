@@ -98,7 +98,7 @@ I successfully graduated from RS School Javascript | Frontend Stage 1, 2  and re
 
 # Projects
 
-## Pet Project in a development stage:
+## Pet Project in the development stage:
 ### [Test Deployment Link](https://english-premium.netlify.app/)
 ### Stack
 - Frontend: Next.js, TypeScript
@@ -147,6 +147,25 @@ Repo: https://github.com/Yuliafire/eCommerce-dyson
 ## My Team Page 
 <img src="https://github.com/user-attachments/assets/b04fbe91-88ba-4100-8a22-995f6cb666d4" alt="User List" width="500" height="370">
 
+## Next.js: next-csr-ssr-ssg-isr
+implementing different rendering modes in Next.js 
+
+A Next.js application demonstrating different rendering strategies—Client-Side Rendering (CSR), Static Site Generation (SSG), Server-Side Rendering (SSR), and Incremental Static Regeneration (ISR)—using the App Router. This project showcases how to build dynamic and static pages with real-time data fetching from the JSONPlaceholder API.
+
+## Features
+- **Home Page (/)**: Uses CSR with `useSWR` to fetch and display a list of users, featuring a modal with a form for POST requests.
+- **Static Page (/static)**: Pre-rendered SSG page showing a static user list.
+- **Server Page (/server)**: SSR page fetching fresh user data on each request.
+- **ISR Page (/isr)**: Statically generated with 1-minute revalidation for periodic updates.
+- **Animations**: Integrates `framer-motion` for smooth UI transitions.
+- **Notifications**: Uses `react-hot-toast` for user feedback.
+- **Form Handling**: Includes a `Form.tsx` component with file upload support.
+
+## Tech Stack
+- **Framework**: Next.js 15.5.4 (App Router)
+- **Styling**: Tailwind CSS
+
+<img width="500" height="370" alt="Screenshot 2026-01-01 at 9 13 27 PM" src="https://github.com/user-attachments/assets/ed2991b5-51b5-41b0-9ef6-6a287a6b1538" />
 
 ## 1. Angel Spa | HTML, CSS, JS  project.
 
