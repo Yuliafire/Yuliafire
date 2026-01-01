@@ -149,6 +149,9 @@ Repo: https://github.com/Yuliafire/eCommerce-dyson
 
 ## Next.js: next-csr-ssr-ssg-isr
 implementing different rendering modes in Next.js 
+
+<img width="500" height="370" alt="Screenshot 2026-01-01 at 9 13 27 PM" src="https://github.com/user-attachments/assets/ed2991b5-51b5-41b0-9ef6-6a287a6b1538" />
+
 ### Repo [Link](https://github.com/Yuliafire/next-csr-ssr-ssg-isr/pull/1)
 ### Deploy [Link](https://next-ssr-ssg-csr-isr.netlify.app/)
 
@@ -166,8 +169,6 @@ A Next.js application demonstrating different rendering strategies—Client-Side
 ## Tech Stack
 - **Framework**: Next.js 15.5.4 (App Router)
 - **Styling**: Tailwind CSS
-
-<img width="500" height="370" alt="Screenshot 2026-01-01 at 9 13 27 PM" src="https://github.com/user-attachments/assets/ed2991b5-51b5-41b0-9ef6-6a287a6b1538" />
 
 ##  Harry Potter API | React js. 
 <img width="500" height="370" alt="Screenshot 2026-01-01 at 9 39 03 PM" src="https://github.com/user-attachments/assets/07888a6f-38d6-41c1-871d-2591ed613414" />
