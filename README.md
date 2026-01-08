@@ -99,7 +99,7 @@ I successfully graduated from RS School Javascript | Frontend Stage 1, 2  and re
 # Projects
 
 ## Pet Project in the development stage:
-### [Test Deployment Link](https://english-premium.netlify.app/)
+### [Test Deployment Link](https://premium-english-school.netlify.app/)
 ### Stack
 - Frontend: Next.js, TypeScript
 - UI: Snadcn
