@@ -153,7 +153,7 @@ implementing different rendering modes in Next.js
 <img width="500" height="370" alt="Screenshot 2026-01-01 at 9 13 27 PM" src="https://github.com/user-attachments/assets/ed2991b5-51b5-41b0-9ef6-6a287a6b1538" />
 
 ### Repo [Link](https://github.com/Yuliafire/next-csr-ssr-ssg-isr/pull/1)
-### Deploy [Link](https://next-ssr-ssg-csr-isr.netlify.app/)
+### Deploy [Link](https://nextjs-modes.netlify.app/)
 
 A Next.js application demonstrating different rendering strategies—Client-Side Rendering (CSR), Static Site Generation (SSG), Server-Side Rendering (SSR), and Incremental Static Regeneration (ISR)—using the App Router. This project showcases how to build dynamic and static pages with real-time data fetching from the JSONPlaceholder API.
 
