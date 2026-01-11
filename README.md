@@ -229,7 +229,7 @@ This project involves building a Coffee Shop website, where users can explore va
 This project involves building a Christmas-themed shop website, where users can interact with a variety of gift-related features.
 The task involves implementing various interactive functionalities, including a burger menu, timer, random gift suggestions, and category switching for gifts. 
 ### Repo [Link](https://github.com/Yuliafire/christmas/pull/1)
-### Deployment [Link](https://christmas-shopify.netlify.app/)
+### Deployment [Link](https://christmas-store-online.netlify.app/)
 
 <img width="500" height="300" alt="Снимок экрана 2025-02-09 в 9 27 21 PM" src="https://github.com/user-attachments/assets/2e21e16e-1662-45d8-b120-81ddb9ae72c0" />
 
