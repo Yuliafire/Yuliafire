@@ -93,7 +93,7 @@ hide_border=true" />
 
 ## Certificate
 
-I successfully graduated from RS School Javascript | Frontend Stage 1, 2  and received real-world  developer experience by collaborating on E-commerce project. 
+I successfully graduated from RS School Javascript | Frontend Stage 1, 2, React and received real-world  developer experience by collaborating on E-commerce project. 
  [Rs School Certificate](https://app.rs.school/certificate/udfr20ip)
 
 # Projects
@@ -102,15 +102,12 @@ I successfully graduated from RS School Javascript | Frontend Stage 1, 2  and re
 ### [Test Deployment Link](https://premium-english-school.netlify.app/)
 ### Stack
 - Frontend: Next.js, TypeScript
-- UI: Snadcn
-- Styling: Tailwind
-- Build Tool: Vite
+- UI: Snadcn, Tailwind
+- Google, email/password authentication with Firebase
 - Testing: Vitest, Jest
 - Code Quality: ESLint, Prettier
 - Git Hooks: Husky
-- Package Manager: npm
 - Ollama for chatbot implementation;
-- Axios for fetching data;
 <img width="500" height="350" alt="Screenshot 2025-10-14 at 11 20 35 PM" src="https://github.com/user-attachments/assets/741e3c8a-ef87-421b-97b0-2a6f2b8bca14" />
 <img width="500" height="350" alt="Screenshot 2025-10-14 at 11 21 49 PM" src="https://github.com/user-attachments/assets/3abc77ab-a840-4a89-8cb6-e501235da5bc" />
 <img width="500" height="350" alt="Screenshot 2025-10-14 at 11 30 29 PM" src="https://github.com/user-attachments/assets/c17bffba-3347-4155-ae2b-c4c330e7ca33" />
