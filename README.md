@@ -27,7 +27,7 @@
 <p>👯 I’m excited to collaborate on innovative React and Next.js projects, like building AI-powered web apps.</p>
 <p>🎓 Certified English Teacher (TEFL)</p>
 <p>💬 Ask me about English in web development</p>
-<p>🎓 Currently learning Next.js, AI integration tools and Python automation</p>
+<p>🎓 Currently working on Next.js project [Click](https://premium-english-school.netlify.app/) with AI integration and Google & Email | Password Authentication implemented with Firebase</p>
 
 
 <h2>Stack</h2>
