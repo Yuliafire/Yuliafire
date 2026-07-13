@@ -63,7 +63,7 @@
 
 <p>I have worked as a Certified English teacher for more than 10 years and studied Frontend Development at RS School, EPAM. I'm fluent in English (C2 level)
 and can also speak Chinese Mandarin (HSK3). I believe in Education and self-development.</p>
-<p>Visit my <a href="https://english-speaker.netlify.app" target="_blank" rel="noreferrer">website</a> to learn more about me... and <a href="https://youtu.be/-CADlPmv0Dw" 
+<p>Visit my <a href="https://premium-english.com" target="_blank" rel="noreferrer">website</a> to learn more about me... and <a href="https://youtu.be/-CADlPmv0Dw" 
 target="_blank" rel="noreferrer">watch the video on YouTube</a></p>
 
 ![IMAGE 2025-02-09 10:01:27 PM](https://github.com/user-attachments/assets/7c0e74f5-db11-42f7-ae1a-323cf000e934)
