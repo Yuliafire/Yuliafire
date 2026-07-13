@@ -23,7 +23,7 @@
 </p>
 
 <p>🔭 2+ years in web development</p>
-<p>🎓 Currently working on Next.js project https://premium-english-school.netlify.app/ with AI integration and Email | Password Authentication implemented with Node.js, Mongo DB</p>
+<p>🎓 https://premium-english.com I built this landing page with Next.js</p>
 <p>👯 I’m excited to collaborate on innovative React and Next.js projects, like building AI-powered web apps.</p>
 <p>🎓 Certified English Teacher (TEFL)</p>
 <p>💬 Ask me about English in web development</p>
