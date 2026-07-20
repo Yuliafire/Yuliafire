@@ -24,7 +24,7 @@
 
 <p>🎓 Founder | Developer  https://premium-english.com</p>
 <p>🎓 Certified English Teacher (TEFL)</p>
-<p>💬 Ask me about English in web development</p>
+<p>💬 I will help you prepare for your tech interview</p>
 
 <h2>Stack</h2>
 
