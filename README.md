@@ -1,4 +1,4 @@
-<h1 align="center"><b>Yulia Podgurskaia</b>  | Frontend Developer | Premium English Founder </h1>
+<h1 align="center"><b>Yulia Podgurskaia</b>  | Frontend Developer | Premium English Founder | Linguist </h1>
 <div align="center">
   <a href="https://t.me/linguavoice" target="_blank" rel="noreferrer"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yulia-podgurskaya-93a72439b" target="_blank" rel="noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
