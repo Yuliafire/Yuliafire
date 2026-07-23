@@ -1,4 +1,4 @@
-<h1 align="center"><b>Yulia Podgurskaia</b>  | Frontend Developer | Premium English Founder | Linguist </h1>
+<h1 align="center"><b>Yulia Podgurskaia</b></h1>
 <div align="center">
   <a href="https://t.me/linguavoice" target="_blank" rel="noreferrer"><img alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yulia-podgurskaya-93a72439b" target="_blank" rel="noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -6,7 +6,7 @@
 </div>
 
 
-<p align="center"><span style="font-size:20px;">💻 <b>Frontend Developer</b></span></p>
+<p align="center"><span style="font-size:20px;">💻 <b>Frontend Developer | Premium English Founder | Linguist</b></span></p>
 
 <p align="center">
   <svg width="600" height="30" viewBox="0 0 600 30" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="JavaScript · TypeScript · React · Next.js">
