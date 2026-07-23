@@ -18,6 +18,7 @@
       <tspan dx="8" fill="#3178C6">TypeScript</tspan>
       <tspan dx="8" fill="#489FCF">|</tspan>
       <tspan dx="8" fill="#61DAFB">React</tspan>
+      <tspan dx="8" fill="#489FCF">|</tspan>
       <tspan dx="8" fill="#61DAFB">Next.js</tspan>
     </text>
   </svg>
