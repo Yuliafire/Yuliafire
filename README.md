@@ -25,8 +25,8 @@
 </p>
 
 <p>🎓 Founder | Developer  https://premium-english.com</p>
-<p>🎓 Certified English Teacher (TEFL)</p>
-<p>💬 I will help you prepare for your tech interview</p>
+<p>🎓 Certified English Teacher (TEFL). </p>
+<p>💬 I will help you prepare for your tech interview - learn more https://premium-english.com/eng-it</p> 
 
 <h2>Stack</h2>
 
